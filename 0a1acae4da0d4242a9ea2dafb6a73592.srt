@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.004
+- [Instructor] Version four of GPT is remarkable
+
+2
+00:00:03.004 --> 00:00:05.004
+in all that it can do today.
+
+3
+00:00:05.004 --> 00:00:08.004
+It has come a long way since prior versions.
+
+4
+00:00:08.004 --> 00:00:10.007
+Improvements include significantly better
+
+5
+00:00:10.007 --> 00:00:12.006
+accuracy and reasoning,
+
+6
+00:00:12.006 --> 00:00:14.002
+images as inputs,
+
+7
+00:00:14.002 --> 00:00:17.007
+and support for much larger text prompts.
+
+8
+00:00:17.007 --> 00:00:19.005
+However, even version four
+
+9
+00:00:19.005 --> 00:00:22.002
+has some clear limitations to overcome.
+
+10
+00:00:22.002 --> 00:00:23.009
+That said, let's recognize that
+
+11
+00:00:23.009 --> 00:00:26.003
+while these limitations exist today,
+
+12
+00:00:26.003 --> 00:00:29.007
+subsequent versions of GPT and its competitors
+
+13
+00:00:29.007 --> 00:00:32.009
+have a high probability of overcoming these.
+
+14
+00:00:32.009 --> 00:00:36.008
+In fact, this may happen sooner than many of us think.
+
+15
+00:00:36.008 --> 00:00:38.007
+In this video, I'll touch on a few
+
+16
+00:00:38.007 --> 00:00:43.002
+of the most obvious limitations of GPT-4.
+
+17
+00:00:43.002 --> 00:00:46.003
+Sometimes when working with GPT, the quality of the content
+
+18
+00:00:46.003 --> 00:00:50.003
+can make it seem that authentic thinking is happening.
+
+19
+00:00:50.003 --> 00:00:52.008
+That is, the software is generating creative,
+
+20
+00:00:52.008 --> 00:00:55.009
+original thought, and then producing the output.
+
+21
+00:00:55.009 --> 00:00:57.009
+GPT doesn't understand
+
+22
+00:00:57.009 --> 00:01:01.003
+and process prompts in the human sense.
+
+23
+00:01:01.003 --> 00:01:06.000
+In reality, GPT is smartly regurgitating existing data
+
+24
+00:01:06.000 --> 00:01:07.006
+it has been trained on,
+
+25
+00:01:07.006 --> 00:01:11.005
+but in a newly structured context-based form.
+
+26
+00:01:11.005 --> 00:01:14.008
+No doubt, it does it surprisingly well.
+
+27
+00:01:14.008 --> 00:01:17.009
+Alongside the best results it can produce,
+
+28
+00:01:17.009 --> 00:01:21.003
+the worst of humanity can also be delivered,
+
+29
+00:01:21.003 --> 00:01:24.007
+output that is biased, stereotypical,
+
+30
+00:01:24.007 --> 00:01:28.008
+wrong, offensive, explicit, nonsensical,
+
+31
+00:01:28.008 --> 00:01:31.007
+excessively long or way too short,
+
+32
+00:01:31.007 --> 00:01:35.001
+and similar are all possible.
+
+33
+00:01:35.001 --> 00:01:39.004
+One type of problematic output is when it is simply made up.
+
+34
+00:01:39.004 --> 00:01:41.005
+It's not based on any facts.
+
+35
+00:01:41.005 --> 00:01:43.009
+Called an AI hallucination,
+
+36
+00:01:43.009 --> 00:01:46.003
+GPT will sometimes produce an answer
+
+37
+00:01:46.003 --> 00:01:48.003
+that is simply not true.
+
+38
+00:01:48.003 --> 00:01:51.005
+AI doesn't have what we call common sense.
+
+39
+00:01:51.005 --> 00:01:55.002
+You can quickly see how that can present an issue.
+
+40
+00:01:55.002 --> 00:01:57.000
+An added limitation is that GPT
+
+41
+00:01:57.000 --> 00:01:58.007
+doesn't provide a list of data
+
+42
+00:01:58.007 --> 00:02:01.008
+and information sources for its output.
+
+43
+00:02:01.008 --> 00:02:05.003
+This can create issues that include copyright challenges,
+
+44
+00:02:05.003 --> 00:02:08.007
+source validation, academic accuracy,
+
+45
+00:02:08.007 --> 00:02:11.000
+and providing references.
+
+46
+00:02:11.000 --> 00:02:12.002
+If that's important to you,
+
+47
+00:02:12.002 --> 00:02:14.006
+I suggest adding that requirement to a prompt
+
+48
+00:02:14.006 --> 00:02:18.007
+or asking for references as a prompt follow-up.
+
+49
+00:02:18.007 --> 00:02:21.003
+GPT is optimized for both the English language
+
+50
+00:02:21.003 --> 00:02:24.003
+and often exhibits a Western perspective.
+
+51
+00:02:24.003 --> 00:02:25.007
+Other languages and cultures
+
+52
+00:02:25.007 --> 00:02:27.007
+are not yet being fully reflected,
+
+53
+00:02:27.007 --> 00:02:32.002
+creating problematic sensitivity and bias issues.
+
+54
+00:02:32.002 --> 00:02:34.007
+These challenges are improved through training
+
+55
+00:02:34.007 --> 00:02:37.005
+but can also be made worse through training.
+
+56
+00:02:37.005 --> 00:02:40.000
+In addition, OpenAI works continuously
+
+57
+00:02:40.000 --> 00:02:41.005
+to put in place guardrails
+
+58
+00:02:41.005 --> 00:02:45.005
+to limit the possibility of inappropriate responses.
+
+59
+00:02:45.005 --> 00:02:48.005
+However, this may inadvertently restrict answers
+
+60
+00:02:48.005 --> 00:02:52.005
+and by extension create bias and censorship concerns.
+
+61
+00:02:52.005 --> 00:02:57.004
+OpenAI does prohibit certain uses with GPT and ChatGPT.
+
+62
+00:02:57.004 --> 00:03:00.009
+Their usage policy can be found at the link on the screen.
+
+63
+00:03:00.009 --> 00:03:03.009
+Prohibitions include illegal activities,
+
+64
+00:03:03.009 --> 00:03:07.006
+generation of hateful, harassing and violent content,
+
+65
+00:03:07.006 --> 00:03:12.002
+creation of malware or use in weapons development.
+
+66
+00:03:12.002 --> 00:03:15.007
+The model relies heavily on how the prompt is constructed.
+
+67
+00:03:15.007 --> 00:03:18.002
+For example, one prompt may result in no answer,
+
+68
+00:03:18.002 --> 00:03:21.002
+while a small tweak can deliver a full answer.
+
+69
+00:03:21.002 --> 00:03:22.002
+This means results
+
+70
+00:03:22.002 --> 00:03:24.006
+can sometimes be too dependent on the user
+
+71
+00:03:24.006 --> 00:03:26.002
+rather than the software.
+
+72
+00:03:26.002 --> 00:03:28.003
+GPT's inclination is towards
+
+73
+00:03:28.003 --> 00:03:30.004
+answering the prompt on the first try
+
+74
+00:03:30.004 --> 00:03:34.002
+rather than seeking clarification if it's required.
+
+75
+00:03:34.002 --> 00:03:36.004
+At the time of creating this course,
+
+76
+00:03:36.004 --> 00:03:40.004
+GPT-4 content was current to September, 2021.
+
+77
+00:03:40.004 --> 00:03:43.001
+As a result, no answers are provided by the system
+
+78
+00:03:43.001 --> 00:03:46.009
+for requests that reference anything after that date.
+
+79
+00:03:46.009 --> 00:03:49.004
+Obviously, this includes no existing capability
+
+80
+00:03:49.004 --> 00:03:52.005
+to refresh content near real time.
+
+81
+00:03:52.005 --> 00:03:54.006
+Additionally, in a related limitation,
+
+82
+00:03:54.006 --> 00:03:57.007
+model tuning is not yet permitted by the user.
+
+83
+00:03:57.007 --> 00:03:59.007
+For example, a scientist may want the model
+
+84
+00:03:59.007 --> 00:04:01.006
+to support a niche medical area
+
+85
+00:04:01.006 --> 00:04:03.008
+that is not part of GPT corpus.
+
+86
+00:04:03.008 --> 00:04:07.006
+I can't imagine these limitations being around too long.
+
+87
+00:04:07.006 --> 00:04:11.001
+In this video, I've largely focused on technical issues.
+
+88
+00:04:11.001 --> 00:04:14.001
+It's my view that we'll overcome many of these and others
+
+89
+00:04:14.001 --> 00:04:16.006
+that may emerge in the months and years ahead.
+
+90
+00:04:16.006 --> 00:04:19.003
+Of course, it's vital to understand these limitations
+
+91
+00:04:19.003 --> 00:04:21.007
+as you consider the application of GPT
+
+92
+00:04:21.007 --> 00:04:24.000
+in your work and organization.
+
+93
+00:04:24.000 --> 00:04:26.008
+That said, in addition to these issues,
+
+94
+00:04:26.008 --> 00:04:29.007
+there are many non-technical challenges and risks
+
+95
+00:04:29.007 --> 00:04:32.009
+that we will also need to understand and overcome.
+
+96
+00:04:32.009 --> 00:04:35.004
+I discuss those in the next video.
