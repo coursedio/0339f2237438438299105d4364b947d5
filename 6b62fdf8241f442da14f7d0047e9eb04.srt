@@ -1,0 +1,481 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:03.004
+- While many people will use the ChatGPT service
+
+2
+00:00:03.004 --> 00:00:06.003
+directly on the web or through its own app,
+
+3
+00:00:06.003 --> 00:00:09.009
+its backend large language model, or LMM,
+
+4
+00:00:09.009 --> 00:00:12.006
+is a software platform that enables all types
+
+5
+00:00:12.006 --> 00:00:15.006
+of innovation to be built on top of it.
+
+6
+00:00:15.006 --> 00:00:18.001
+By this I mean that GPT technology
+
+7
+00:00:18.001 --> 00:00:22.000
+can be incorporated seamlessly into existing solutions
+
+8
+00:00:22.000 --> 00:00:26.003
+via application programming interfaces, or APIs,
+
+9
+00:00:26.003 --> 00:00:28.009
+software that enables two or more computer programs
+
+10
+00:00:28.009 --> 00:00:31.005
+to communicate with each other.
+
+11
+00:00:31.005 --> 00:00:36.005
+GPT could also be the basis for completely new innovation.
+
+12
+00:00:36.005 --> 00:00:40.005
+For example, Microsoft, a major investor in OpenAI,
+
+13
+00:00:40.005 --> 00:00:43.005
+is quickly building GPT capabilities
+
+14
+00:00:43.005 --> 00:00:44.009
+into many of its products,
+
+15
+00:00:44.009 --> 00:00:46.009
+including its popular Office suite
+
+16
+00:00:46.009 --> 00:00:49.006
+and its search tool Bing.
+
+17
+00:00:49.006 --> 00:00:53.004
+Under the moniker Microsoft 365 Copilot,
+
+18
+00:00:53.004 --> 00:00:56.003
+these GPT-based functions will enhance
+
+19
+00:00:56.003 --> 00:00:58.008
+and simplify existing capability
+
+20
+00:00:58.008 --> 00:01:02.000
+and also add completely new features.
+
+21
+00:01:02.000 --> 00:01:03.006
+For example, in Outlook,
+
+22
+00:01:03.006 --> 00:01:06.002
+a user will be able to get a summary of emails
+
+23
+00:01:06.002 --> 00:01:09.002
+in a long thread rather than having to read through
+
+24
+00:01:09.002 --> 00:01:11.003
+all of them.
+
+25
+00:01:11.003 --> 00:01:13.005
+As an example of new innovation,
+
+26
+00:01:13.005 --> 00:01:15.009
+a service called Be My Eyes
+
+27
+00:01:15.009 --> 00:01:18.003
+that has typically used human volunteers
+
+28
+00:01:18.003 --> 00:01:21.009
+to describe images to visually impaired people
+
+29
+00:01:21.009 --> 00:01:25.007
+is beginning to use GPT to automatically process visuals
+
+30
+00:01:25.007 --> 00:01:29.007
+and then describe them without any human intervention.
+
+31
+00:01:29.007 --> 00:01:33.008
+Further still, this new GPT-powered version enables a user
+
+32
+00:01:33.008 --> 00:01:38.002
+to ask AI questions about what is in the image.
+
+33
+00:01:38.002 --> 00:01:40.006
+A variation of this supports the ability
+
+34
+00:01:40.006 --> 00:01:44.005
+for a person to take a picture of the contents of a fridge
+
+35
+00:01:44.005 --> 00:01:47.005
+and then ask GPT to suggest recipes
+
+36
+00:01:47.005 --> 00:01:52.004
+that would use the ingredients it can see in the image.
+
+37
+00:01:52.004 --> 00:01:54.006
+This capability can also be used
+
+38
+00:01:54.006 --> 00:01:56.003
+to translate written language
+
+39
+00:01:56.003 --> 00:01:58.006
+by simply taking a photo of, say,
+
+40
+00:01:58.006 --> 00:02:01.002
+a food product from a foreign country
+
+41
+00:02:01.002 --> 00:02:03.006
+and having GPT process the text
+
+42
+00:02:03.006 --> 00:02:07.007
+and produce output in the language of choice.
+
+43
+00:02:07.007 --> 00:02:09.000
+The popular online
+
+44
+00:02:09.000 --> 00:02:12.000
+and free educational service from Khan Academy
+
+45
+00:02:12.000 --> 00:02:15.003
+has being quick to adopt GPT capabilities.
+
+46
+00:02:15.003 --> 00:02:18.009
+They use AI as a teaching aid to help students arrive
+
+47
+00:02:18.009 --> 00:02:21.002
+at the correct answer to a question
+
+48
+00:02:21.002 --> 00:02:24.007
+or to better grasp a complex topic.
+
+49
+00:02:24.007 --> 00:02:28.005
+For example, an area they're developing is the ability
+
+50
+00:02:28.005 --> 00:02:32.006
+to interview historical figures such as Cleopatra.
+
+51
+00:02:32.006 --> 00:02:34.005
+Imagine that.
+
+52
+00:02:34.005 --> 00:02:37.008
+For teachers, AI is helping to create lesson plans
+
+53
+00:02:37.008 --> 00:02:41.003
+and assisting with administrative tasks.
+
+54
+00:02:41.003 --> 00:02:42.009
+For developing software,
+
+55
+00:02:42.009 --> 00:02:45.009
+GPT is having a profound impact.
+
+56
+00:02:45.009 --> 00:02:50.007
+Existing developers can paste problematic code into ChatGPT
+
+57
+00:02:50.007 --> 00:02:54.006
+and it will find the bug and suggest the remedy.
+
+58
+00:02:54.006 --> 00:02:56.000
+Code can also be generated
+
+59
+00:02:56.000 --> 00:02:58.001
+in the programming language of choice
+
+60
+00:02:58.001 --> 00:03:01.002
+simply with a plain language prompt.
+
+61
+00:03:01.002 --> 00:03:06.001
+Creating a complex SQL query becomes a breeze.
+
+62
+00:03:06.001 --> 00:03:07.005
+Even more remarkably,
+
+63
+00:03:07.005 --> 00:03:10.002
+a picture drawn of a desired app screen
+
+64
+00:03:10.002 --> 00:03:12.009
+or a simple text description can be processed
+
+65
+00:03:12.009 --> 00:03:16.002
+into the code for a basic functioning app.
+
+66
+00:03:16.002 --> 00:03:18.006
+Additional features including elaborate
+
+67
+00:03:18.006 --> 00:03:20.008
+graphical user interface design
+
+68
+00:03:20.008 --> 00:03:23.006
+is simply a few prompts away.
+
+69
+00:03:23.006 --> 00:03:27.003
+Once the domain of experienced developers and designers,
+
+70
+00:03:27.003 --> 00:03:28.008
+because of GPT,
+
+71
+00:03:28.008 --> 00:03:31.004
+writing code or no code development
+
+72
+00:03:31.004 --> 00:03:34.006
+is becoming far more accessible.
+
+73
+00:03:34.006 --> 00:03:37.004
+GPT can help to process a wide variety
+
+74
+00:03:37.004 --> 00:03:39.003
+of business-related requests,
+
+75
+00:03:39.003 --> 00:03:41.009
+including the generation of ideas,
+
+76
+00:03:41.009 --> 00:03:44.006
+image creation, reports,
+
+77
+00:03:44.006 --> 00:03:47.003
+math calculations, presentations,
+
+78
+00:03:47.003 --> 00:03:51.009
+stories and scripts, curated lists, emails,
+
+79
+00:03:51.009 --> 00:03:54.008
+and content summaries and explainers.
+
+80
+00:03:54.008 --> 00:03:58.009
+It can also simplify complex text, do translations,
+
+81
+00:03:58.009 --> 00:04:01.000
+compare and contrast items,
+
+82
+00:04:01.000 --> 00:04:03.009
+and conduct research.
+
+83
+00:04:03.009 --> 00:04:06.009
+Requests can be combined where, for example,
+
+84
+00:04:06.009 --> 00:04:09.006
+GPT can be asked in one prompt to search
+
+85
+00:04:09.006 --> 00:04:12.004
+and find information, simplify it,
+
+86
+00:04:12.004 --> 00:04:13.009
+and present it in text
+
+87
+00:04:13.009 --> 00:04:17.004
+or visual form in the style of your choice.
+
+88
+00:04:17.004 --> 00:04:20.007
+One solution called AutoGPT
+
+89
+00:04:20.007 --> 00:04:24.002
+when only given a goal instead of explicit requests
+
+90
+00:04:24.002 --> 00:04:27.000
+will create the relevant tasks to achieve that goal
+
+91
+00:04:27.000 --> 00:04:29.008
+and then execute them.
+
+92
+00:04:29.008 --> 00:04:32.005
+Watching the software determine the right tasks,
+
+93
+00:04:32.005 --> 00:04:35.002
+sometimes changing its mind based on results,
+
+94
+00:04:35.002 --> 00:04:40.002
+and then creating a new task is magical to watch.
+
+95
+00:04:40.002 --> 00:04:42.004
+Finally, an area that is being transformed
+
+96
+00:04:42.004 --> 00:04:45.001
+by GPT is customer service,
+
+97
+00:04:45.001 --> 00:04:48.000
+historically a human-intensive exercise.
+
+98
+00:04:48.000 --> 00:04:51.004
+Attempts to automate the response to questions, requests,
+
+99
+00:04:51.004 --> 00:04:54.006
+and complaints has only been marginally successful
+
+100
+00:04:54.006 --> 00:04:56.004
+in the past few decades.
+
+101
+00:04:56.004 --> 00:04:57.006
+More often than not,
+
+102
+00:04:57.006 --> 00:04:59.003
+customers get frustrated
+
+103
+00:04:59.003 --> 00:05:01.007
+and have to speak to a human.
+
+104
+00:05:01.007 --> 00:05:04.003
+Now with GPT-powered AI,
+
+105
+00:05:04.003 --> 00:05:08.001
+customer service may finally be ready for prime time.
+
+106
+00:05:08.001 --> 00:05:10.004
+Conversations are human-like,
+
+107
+00:05:10.004 --> 00:05:13.003
+responses are accurate and intelligent,
+
+108
+00:05:13.003 --> 00:05:17.000
+and video and voice can be incorporated.
+
+109
+00:05:17.000 --> 00:05:18.009
+It won't be long before customer service
+
+110
+00:05:18.009 --> 00:05:20.006
+with AI is commonplace,
+
+111
+00:05:20.006 --> 00:05:23.007
+and it may even be preferable in many instances
+
+112
+00:05:23.007 --> 00:05:26.005
+to working with a human.
+
+113
+00:05:26.005 --> 00:05:30.007
+A challenge in providing examples of GPT in practice
+
+114
+00:05:30.007 --> 00:05:36.000
+is the speed at which new AI-driven innovation is emerging.
+
+115
+00:05:36.000 --> 00:05:38.009
+While my examples in this video give you a flavor
+
+116
+00:05:38.009 --> 00:05:42.003
+of the many ways GPT is being used,
+
+117
+00:05:42.003 --> 00:05:43.007
+by the time you watch this,
+
+118
+00:05:43.007 --> 00:05:48.004
+there will be many more incredible solutions available.
+
+119
+00:05:48.004 --> 00:05:50.003
+After you watch this video,
+
+120
+00:05:50.003 --> 00:05:53.008
+ask ChatGPT to tell you all about them.
