@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.009
+- [Host] Today, AI is being used across all industries
+
+2
+00:00:03.009 --> 00:00:08.000
+and has many uses including fraud detection, search,
+
+3
+00:00:08.000 --> 00:00:12.003
+autonomous driving, spam filtering, recommendation engines
+
+4
+00:00:12.003 --> 00:00:14.002
+and facial recognition.
+
+5
+00:00:14.002 --> 00:00:16.002
+These and others belong to a variety
+
+6
+00:00:16.002 --> 00:00:20.002
+of categories and types within the AI domain.
+
+7
+00:00:20.002 --> 00:00:24.009
+GPT belongs to an AI category called Generative AI.
+
+8
+00:00:24.009 --> 00:00:27.008
+Other technologies and vendors are also in this category
+
+9
+00:00:27.008 --> 00:00:29.005
+including those being developed
+
+10
+00:00:29.005 --> 00:00:35.003
+and deployed from Google, Alibaba, Meta and Nvidia.
+
+11
+00:00:35.003 --> 00:00:38.005
+While I may occasionally allude to these other companies
+
+12
+00:00:38.005 --> 00:00:40.008
+in this course, we're particularly focusing
+
+13
+00:00:40.008 --> 00:00:45.009
+on GPT, a product of the Open AI organization.
+
+14
+00:00:45.009 --> 00:00:49.002
+So what exactly is generative AI?
+
+15
+00:00:49.002 --> 00:00:52.001
+Simply stated, generative AI is a way
+
+16
+00:00:52.001 --> 00:00:54.003
+for software to create new content based
+
+17
+00:00:54.003 --> 00:00:57.002
+on a user providing a prompt.
+
+18
+00:00:57.002 --> 00:01:00.006
+For example, a prompt such as draw a picture
+
+19
+00:01:00.006 --> 00:01:04.001
+of a mountain covered in snow would result in the output
+
+20
+00:01:04.001 --> 00:01:09.000
+of a unique never before seen AI generated image.
+
+21
+00:01:09.000 --> 00:01:11.009
+Prompts include questions, suggestions
+
+22
+00:01:11.009 --> 00:01:15.000
+or narratives that are created in plain language
+
+23
+00:01:15.000 --> 00:01:17.003
+by a user as an input,
+
+24
+00:01:17.003 --> 00:01:21.000
+in response to a prompt generative AI applications
+
+25
+00:01:21.000 --> 00:01:24.009
+then spit out new content in the form of text, images,
+
+26
+00:01:24.009 --> 00:01:30.000
+audio, animation, software code, and more.
+
+27
+00:01:30.000 --> 00:01:33.000
+Given the recent buzz around generative AI,
+
+28
+00:01:33.000 --> 00:01:37.001
+it may seem that it's a completely new category of AI.
+
+29
+00:01:37.001 --> 00:01:40.009
+In fact, generative AI was first introduced in the 1960s,
+
+30
+00:01:40.009 --> 00:01:43.006
+in basic computer chatbots,
+
+31
+00:01:43.006 --> 00:01:47.000
+so-called conversation simulators.
+
+32
+00:01:47.000 --> 00:01:50.004
+Significant progress was made in the early 2010s
+
+33
+00:01:50.004 --> 00:01:52.009
+with the emergence of GANs
+
+34
+00:01:52.009 --> 00:01:56.008
+or Generative Adversarial Networks,
+
+35
+00:01:56.008 --> 00:01:59.000
+technology that enables the creation of images,
+
+36
+00:01:59.000 --> 00:02:03.004
+video, and audio that appear to be authentic.
+
+37
+00:02:03.004 --> 00:02:06.004
+I won't go deeper on GANs in this course
+
+38
+00:02:06.004 --> 00:02:08.004
+but it's an area I recommend you explore
+
+39
+00:02:08.004 --> 00:02:11.008
+depending on how technical you want to get.
+
+40
+00:02:11.008 --> 00:02:15.003
+Generative AI, like a lot of categories within AI,
+
+41
+00:02:15.003 --> 00:02:18.008
+also owes its success to neural networks.
+
+42
+00:02:18.008 --> 00:02:22.003
+In simple terms, a neural network is software designed
+
+43
+00:02:22.003 --> 00:02:25.008
+to learn from finding patterns in datasets.
+
+44
+00:02:25.008 --> 00:02:29.001
+While the first neural nets first appeared as early
+
+45
+00:02:29.001 --> 00:02:33.004
+as the 1950s, it wasn't until the emergence of large volumes
+
+46
+00:02:33.004 --> 00:02:37.007
+of data and high performance computing in the early-2000s
+
+47
+00:02:37.007 --> 00:02:40.007
+that content generation became practical.
+
+48
+00:02:40.007 --> 00:02:42.008
+Additional progress was made through the use
+
+49
+00:02:42.008 --> 00:02:45.000
+of neural net parallel processing
+
+50
+00:02:45.000 --> 00:02:48.008
+on graphical processing units or GPUs,
+
+51
+00:02:48.008 --> 00:02:51.008
+and advances in software including GANs,
+
+52
+00:02:51.008 --> 00:02:56.007
+large language models, or LLMs and transformers.
+
+53
+00:02:56.007 --> 00:03:02.001
+I briefly discuss LLMs and transformers in the next video.
+
+54
+00:03:02.001 --> 00:03:03.009
+Acknowledging that the capabilities
+
+55
+00:03:03.009 --> 00:03:06.005
+of generative AI are emerging rapidly,
+
+56
+00:03:06.005 --> 00:03:09.001
+today the most common use include image
+
+57
+00:03:09.001 --> 00:03:13.007
+and video creation, text generation, and audio output.
+
+58
+00:03:13.007 --> 00:03:16.002
+In many instances, the new content is often
+
+59
+00:03:16.002 --> 00:03:20.000
+indistinguishable from real things or impossible to tell,
+
+60
+00:03:20.000 --> 00:03:22.002
+they were not created by a person.
+
+61
+00:03:22.002 --> 00:03:26.002
+For example, these pictures of human faces aren't real.
+
+62
+00:03:26.002 --> 00:03:30.003
+These people don't actually exist.
+
+63
+00:03:30.003 --> 00:03:33.005
+Clearly, generative AI has a lot of us excited
+
+64
+00:03:33.005 --> 00:03:37.002
+by its potential to transform many aspects of how we work
+
+65
+00:03:37.002 --> 00:03:41.009
+and live, areas that I explore in a later video.
+
+66
+00:03:41.009 --> 00:03:44.006
+But it also raises many questions and implications
+
+67
+00:03:44.006 --> 00:03:49.001
+in the realm of socioeconomics, ethics, legality
+
+68
+00:03:49.001 --> 00:03:51.002
+and a whole lot more.
+
+69
+00:03:51.002 --> 00:03:52.003
+Before proceeding,
+
+70
+00:03:52.003 --> 00:03:55.000
+take a few minutes to consider how generative AI
+
+71
+00:03:55.000 --> 00:03:58.008
+might impact your job organization or industry.
