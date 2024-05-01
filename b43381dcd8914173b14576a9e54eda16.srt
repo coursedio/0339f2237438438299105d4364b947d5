@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:02.006
+- [Presenter] In November, 2022,
+
+2
+00:00:02.006 --> 00:00:06.002
+in what we may look back as a pivotal moment in history,
+
+3
+00:00:06.002 --> 00:00:10.004
+OpenAI released ChatGPT and made it available for free
+
+4
+00:00:10.004 --> 00:00:12.006
+to anyone who signed up.
+
+5
+00:00:12.006 --> 00:00:16.006
+Overnight, millions could use this generative AI tool,
+
+6
+00:00:16.006 --> 00:00:20.002
+a type of sophisticated chatbot, to get detailed answers
+
+7
+00:00:20.002 --> 00:00:24.008
+to questions and generate new content.
+
+8
+00:00:24.008 --> 00:00:27.004
+Up until this point, OpenAI products
+
+9
+00:00:27.004 --> 00:00:31.000
+including prior versions of GPT were only accessible
+
+10
+00:00:31.000 --> 00:00:34.003
+to certain users such as developers and academics,
+
+11
+00:00:34.003 --> 00:00:36.006
+and often, for a fee.
+
+12
+00:00:36.006 --> 00:00:39.009
+By releasing ChatGPT for everyone at no cost,
+
+13
+00:00:39.009 --> 00:00:44.006
+for the first time, high-end AI became broadly accessible.
+
+14
+00:00:44.006 --> 00:00:47.009
+In fact, within two months of its public launch,
+
+15
+00:00:47.009 --> 00:00:52.006
+ChatGPT had 100 million users, breaking the world record
+
+16
+00:00:52.006 --> 00:00:57.002
+to become the fastest-growing web application ever.
+
+17
+00:00:57.002 --> 00:00:59.009
+By simply entering a plain language prompt,
+
+18
+00:00:59.009 --> 00:01:02.008
+users discovered they could quickly have ChatGPT,
+
+19
+00:01:02.008 --> 00:01:07.003
+for example, create essays, write software code,
+
+20
+00:01:07.003 --> 00:01:10.005
+develop resumes, compose emails,
+
+21
+00:01:10.005 --> 00:01:12.007
+and summarize content.
+
+22
+00:01:12.007 --> 00:01:16.002
+This was generative AI at work.
+
+23
+00:01:16.002 --> 00:01:19.004
+For the free version, OpenAI based ChatGPT
+
+24
+00:01:19.004 --> 00:01:22.007
+on version 3.5 of GPT.
+
+25
+00:01:22.007 --> 00:01:24.006
+While the public gets all the benefits
+
+26
+00:01:24.006 --> 00:01:28.006
+from having free access, OpenAI is motivated by the upside
+
+27
+00:01:28.006 --> 00:01:32.004
+of having millions of people participate in GPT research
+
+28
+00:01:32.004 --> 00:01:34.007
+as well as the feedback process.
+
+29
+00:01:34.007 --> 00:01:39.002
+A premium version of ChatGPT called ChatGPT Plus
+
+30
+00:01:39.002 --> 00:01:41.004
+was released in early 2023
+
+31
+00:01:41.004 --> 00:01:45.008
+and uses the more sophisticated GPT-4 version.
+
+32
+00:01:45.008 --> 00:01:47.007
+In addition to being more accurate
+
+33
+00:01:47.007 --> 00:01:50.003
+and capable than the free version,
+
+34
+00:01:50.003 --> 00:01:54.000
+ChatGPT Plus also has faster response times,
+
+35
+00:01:54.000 --> 00:01:55.009
+better capacity management,
+
+36
+00:01:55.009 --> 00:02:00.002
+and provides earlier access to new features.
+
+37
+00:02:00.002 --> 00:02:02.006
+What may surprise many is that leaps in the quality
+
+38
+00:02:02.006 --> 00:02:06.006
+of output in recent versions of GPT and ChatGPT
+
+39
+00:02:06.006 --> 00:02:10.005
+are being helped as a result of human trainers.
+
+40
+00:02:10.005 --> 00:02:16.008
+Called Reinforcement Learning from Human Feedback, or RLHF,
+
+41
+00:02:16.008 --> 00:02:19.006
+GPT is provided with feedback by a person
+
+42
+00:02:19.006 --> 00:02:23.000
+on generated output, and this feedback is then incorporated
+
+43
+00:02:23.000 --> 00:02:25.006
+back into the large language model.
+
+44
+00:02:25.006 --> 00:02:27.005
+This cycle of output and feedback
+
+45
+00:02:27.005 --> 00:02:30.007
+rapidly improves the model.
+
+46
+00:02:30.007 --> 00:02:33.008
+At the heart of ChatGPT are input prompts.
+
+47
+00:02:33.008 --> 00:02:36.002
+The quality of output is a direct result
+
+48
+00:02:36.002 --> 00:02:38.008
+of well-constructed prompts.
+
+49
+00:02:38.008 --> 00:02:42.007
+Crafting prompts is referred to as prompt engineering.
+
+50
+00:02:42.007 --> 00:02:45.000
+It wouldn't be my first choice for a term
+
+51
+00:02:45.000 --> 00:02:48.000
+that easily rolls off the tongue, but nevertheless,
+
+52
+00:02:48.000 --> 00:02:50.001
+it appears to have stuck.
+
+53
+00:02:50.001 --> 00:02:53.004
+Remember, a prompt isn't simply a question similar
+
+54
+00:02:53.004 --> 00:02:56.007
+to what we've become accustomed to with search engines.
+
+55
+00:02:56.007 --> 00:02:59.005
+Of course, ChatGPT handles questions well,
+
+56
+00:02:59.005 --> 00:03:01.003
+providing one answer rather than links
+
+57
+00:03:01.003 --> 00:03:03.008
+to thousands of possible results.
+
+58
+00:03:03.008 --> 00:03:05.009
+It has far more elaborate capabilities
+
+59
+00:03:05.009 --> 00:03:09.005
+that include sorting and classifying information,
+
+60
+00:03:09.005 --> 00:03:12.001
+creating software code and generating,
+
+61
+00:03:12.001 --> 00:03:16.008
+rewriting, summarizing, and expanding text.
+
+62
+00:03:16.008 --> 00:03:20.001
+To get the most from ChatGPT, it requires both a period
+
+63
+00:03:20.001 --> 00:03:23.007
+of experimentation and also good technique.
+
+64
+00:03:23.007 --> 00:03:26.004
+It's okay, for instance, to keep rewriting your request
+
+65
+00:03:26.004 --> 00:03:29.008
+until you get an output closer to what you want.
+
+66
+00:03:29.008 --> 00:03:34.005
+Each time a response is given by ChatGPT, it's different.
+
+67
+00:03:34.005 --> 00:03:37.003
+Also, given that ChatGPT retains awareness
+
+68
+00:03:37.003 --> 00:03:40.007
+of everything captured in a single conversation session
+
+69
+00:03:40.007 --> 00:03:42.003
+means it will use those insights
+
+70
+00:03:42.003 --> 00:03:44.009
+to inform its output for you.
+
+71
+00:03:44.009 --> 00:03:47.006
+For now though, once you close the window or app,
+
+72
+00:03:47.006 --> 00:03:50.002
+that memory is lost.
+
+73
+00:03:50.002 --> 00:03:52.005
+When crafting a prompt, you can use commands
+
+74
+00:03:52.005 --> 00:03:55.001
+to begin your sentence, such as write,
+
+75
+00:03:55.001 --> 00:03:58.008
+summarize, translate, and create.
+
+76
+00:03:58.008 --> 00:04:00.007
+Add context to your request.
+
+77
+00:04:00.007 --> 00:04:02.008
+For example, you could prompt,
+
+78
+00:04:02.008 --> 00:04:06.007
+"What are good gym exercises for a 30-minute workout?"
+
+79
+00:04:06.007 --> 00:04:09.001
+However, you might add prior to that,
+
+80
+00:04:09.001 --> 00:04:11.007
+"I want to build muscle in my arms."
+
+81
+00:04:11.007 --> 00:04:14.002
+Then follow it with your questions.
+
+82
+00:04:14.002 --> 00:04:17.000
+It works well, too, to add identity.
+
+83
+00:04:17.000 --> 00:04:19.002
+For example, in the gym example,
+
+84
+00:04:19.002 --> 00:04:21.003
+you might add, "Provide the exercises
+
+85
+00:04:21.003 --> 00:04:24.000
+for a male between the ages of 30 and 40."
+
+86
+00:04:24.000 --> 00:04:26.002
+This works for all manner of prompts.
+
+87
+00:04:26.002 --> 00:04:28.004
+You could ask ChatGPT to write an email
+
+88
+00:04:28.004 --> 00:04:30.005
+that comes from a boss to an employee
+
+89
+00:04:30.005 --> 00:04:32.007
+or from an employee to a boss.
+
+90
+00:04:32.007 --> 00:04:37.008
+ChatGPT loves specificity and descriptions.
+
+91
+00:04:37.008 --> 00:04:41.000
+It also benefits from providing examples in the prompt.
+
+92
+00:04:41.000 --> 00:04:43.000
+For instance, "I enjoy The Beatles
+
+93
+00:04:43.000 --> 00:04:45.001
+and The Rolling Stones.
+
+94
+00:04:45.001 --> 00:04:48.004
+Suggest bands with similar styles."
+
+95
+00:04:48.004 --> 00:04:51.003
+You'll find a lot of help creating prompts online.
+
+96
+00:04:51.003 --> 00:04:53.002
+Here are three sites to give you a flavor
+
+97
+00:04:53.002 --> 00:04:55.000
+of what's available.
+
+98
+00:04:55.000 --> 00:04:56.003
+Here's PromptBase.
+
+99
+00:04:56.003 --> 00:04:58.005
+This is a solution that provides a database
+
+100
+00:04:58.005 --> 00:05:01.002
+of effective prompts that gets results
+
+101
+00:05:01.002 --> 00:05:04.003
+in a wide number of generative AI tools,
+
+102
+00:05:04.003 --> 00:05:09.007
+such as Midjourney and Stable Diffusion.
+
+103
+00:05:09.007 --> 00:05:11.001
+Next, Vellum.
+
+104
+00:05:11.001 --> 00:05:13.006
+This is a site, which is a suite of tools
+
+105
+00:05:13.006 --> 00:05:15.005
+in support of LLMs.
+
+106
+00:05:15.005 --> 00:05:20.006
+It includes features that help with prompt engineering.
+
+107
+00:05:20.006 --> 00:05:23.007
+Finally, FusionAI is a support tool
+
+108
+00:05:23.007 --> 00:05:25.003
+that will generate prompts
+
+109
+00:05:25.003 --> 00:05:27.004
+based on what you're trying to achieve.
+
+110
+00:05:27.004 --> 00:05:31.007
+It will iterate with you until you get the desired output.
+
+111
+00:05:31.007 --> 00:05:34.001
+ChatGPT is impressive and powerful,
+
+112
+00:05:34.001 --> 00:05:36.000
+but it's certainly not perfect.
+
+113
+00:05:36.000 --> 00:05:38.005
+It's still early in its development.
+
+114
+00:05:38.005 --> 00:05:41.001
+You'll find that it sometimes can't answer your prompt
+
+115
+00:05:41.001 --> 00:05:45.000
+including having no knowledge after September, 2021
+
+116
+00:05:45.000 --> 00:05:46.008
+because that data is not included
+
+117
+00:05:46.008 --> 00:05:49.002
+in its large language model.
+
+118
+00:05:49.002 --> 00:05:53.000
+I suspect that this limitation will disappear soon though.
+
+119
+00:05:53.000 --> 00:05:56.007
+ChatGPT may also give an answer it simply makes up.
+
+120
+00:05:56.007 --> 00:05:59.009
+We call this an AI hallucination.
+
+121
+00:05:59.009 --> 00:06:04.004
+Open AI's use policy also prohibits certain uses.
+
+122
+00:06:04.004 --> 00:06:07.009
+While ChatGPT is one app that runs in GPT,
+
+123
+00:06:07.009 --> 00:06:09.008
+there are many more.
+
+124
+00:06:09.008 --> 00:06:13.009
+Next, we'll explore some of those other applications of GPT.
