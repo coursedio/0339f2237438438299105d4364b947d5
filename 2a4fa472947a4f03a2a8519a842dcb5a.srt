@@ -1,0 +1,361 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:01.009
+- [Presenter] With artificial intelligence
+
+2
+00:00:01.009 --> 00:00:03.008
+suddenly getting so much attention
+
+3
+00:00:03.008 --> 00:00:06.009
+and having such a big impact across industries,
+
+4
+00:00:06.009 --> 00:00:09.008
+it's worth understanding how it came about.
+
+5
+00:00:09.008 --> 00:00:12.002
+Is AI something completely new
+
+6
+00:00:12.002 --> 00:00:15.008
+or has it existed for years or even decades?
+
+7
+00:00:15.008 --> 00:00:17.007
+Let's start with the definition.
+
+8
+00:00:17.007 --> 00:00:20.008
+I like this one from Merriam-Webster Dictionary:
+
+9
+00:00:20.008 --> 00:00:23.000
+AI is the capability of a machine
+
+10
+00:00:23.000 --> 00:00:27.000
+to imitate intelligent human behavior.
+
+11
+00:00:27.000 --> 00:00:31.003
+Most other definitions are a variation of this.
+
+12
+00:00:31.003 --> 00:00:35.001
+The idea that human activities can be simulated by a machine
+
+13
+00:00:35.001 --> 00:00:38.006
+is the core of AI research and development.
+
+14
+00:00:38.006 --> 00:00:40.005
+What may be a surprise to many
+
+15
+00:00:40.005 --> 00:00:43.000
+is that AI has been an area of interest
+
+16
+00:00:43.000 --> 00:00:45.009
+and progress since the 1950s,
+
+17
+00:00:45.009 --> 00:00:49.006
+but another way, scientists, engineers, mathematicians,
+
+18
+00:00:49.006 --> 00:00:53.007
+and others have been working on it for almost 70 years.
+
+19
+00:00:53.007 --> 00:00:57.007
+Early uses of AI included basic assembly line robotics,
+
+20
+00:00:57.007 --> 00:01:00.007
+chatbots, decision support tools,
+
+21
+00:01:00.007 --> 00:01:04.001
+and expert systems for problem solving.
+
+22
+00:01:04.001 --> 00:01:05.003
+In recent years,
+
+23
+00:01:05.003 --> 00:01:07.008
+improved computing performance and networks,
+
+24
+00:01:07.008 --> 00:01:10.009
+software languages and operating systems,
+
+25
+00:01:10.009 --> 00:01:14.003
+algorithms and big data have all contributed
+
+26
+00:01:14.003 --> 00:01:18.003
+to an acceleration in AI capability.
+
+27
+00:01:18.003 --> 00:01:21.000
+Popular culture would have us imagine AI
+
+28
+00:01:21.000 --> 00:01:23.002
+in the form of sentient entities
+
+29
+00:01:23.002 --> 00:01:26.001
+such as C-3PO in "Star Wars"
+
+30
+00:01:26.001 --> 00:01:30.009
+or HAL 9000 in "2001: A Space Odyssey."
+
+31
+00:01:30.009 --> 00:01:34.001
+In reality, AI is software that is often found
+
+32
+00:01:34.001 --> 00:01:37.001
+in enterprise applications and embedded in devices
+
+33
+00:01:37.001 --> 00:01:40.002
+from our smartphones to dishwashers,
+
+34
+00:01:40.002 --> 00:01:44.002
+okay, and the occasional human-looking robot.
+
+35
+00:01:44.002 --> 00:01:47.004
+While AI, at some level, can appear magical,
+
+36
+00:01:47.004 --> 00:01:49.008
+what we're actually experiencing is software
+
+37
+00:01:49.008 --> 00:01:53.002
+that performs a particular set of tasks well.
+
+38
+00:01:53.002 --> 00:01:56.004
+Given that today's common AI uses are specialized
+
+39
+00:01:56.004 --> 00:01:58.009
+and not general purpose just yet,
+
+40
+00:01:58.009 --> 00:02:03.001
+it's appropriately described as narrow AI.
+
+41
+00:02:03.001 --> 00:02:05.008
+While we say AI, what we're really describing
+
+42
+00:02:05.008 --> 00:02:09.005
+is artificial narrow intelligence or ANI.
+
+43
+00:02:09.005 --> 00:02:13.002
+Narrow AI differs from other forms of AI research
+
+44
+00:02:13.002 --> 00:02:17.002
+such as artificial general intelligence, AGI,
+
+45
+00:02:17.002 --> 00:02:20.007
+or artificial super intelligence, ASI,
+
+46
+00:02:20.007 --> 00:02:24.000
+which are in the category of strong intelligence.
+
+47
+00:02:24.000 --> 00:02:26.007
+This category focuses on the ability for a computer
+
+48
+00:02:26.007 --> 00:02:29.009
+to perform tasks through reasoning and thinking,
+
+49
+00:02:29.009 --> 00:02:33.008
+emulating and surpassing the intelligence of humans.
+
+50
+00:02:33.008 --> 00:02:36.001
+Ultimately, the software may have emotion
+
+51
+00:02:36.001 --> 00:02:37.007
+and self-awareness,
+
+52
+00:02:37.007 --> 00:02:40.005
+although don't expect any announcements on that
+
+53
+00:02:40.005 --> 00:02:43.001
+for some time to come.
+
+54
+00:02:43.001 --> 00:02:47.006
+Today's narrow AI takes existing data, the more the better,
+
+55
+00:02:47.006 --> 00:02:50.004
+and uses statistical techniques to help it learn
+
+56
+00:02:50.004 --> 00:02:54.006
+how to become progressively better at a specific task.
+
+57
+00:02:54.006 --> 00:02:57.009
+This approach is called machine learning or ML.
+
+58
+00:02:57.009 --> 00:02:59.005
+It's great at performing activities
+
+59
+00:02:59.005 --> 00:03:02.006
+such as returning results in online search,
+
+60
+00:03:02.006 --> 00:03:05.002
+image recognition such as identifying an object
+
+61
+00:03:05.002 --> 00:03:07.000
+in a digital photograph,
+
+62
+00:03:07.000 --> 00:03:11.000
+recognizing our voice commands made to Siri and Alexa,
+
+63
+00:03:11.000 --> 00:03:15.004
+and enabling self-driving cars to avoid collisions.
+
+64
+00:03:15.004 --> 00:03:17.004
+A subset of ML called deep learning
+
+65
+00:03:17.004 --> 00:03:20.002
+or DL uses advanced algorithms
+
+66
+00:03:20.002 --> 00:03:22.002
+and lots of data to support the concept
+
+67
+00:03:22.002 --> 00:03:24.005
+of learning by example.
+
+68
+00:03:24.005 --> 00:03:27.000
+For example, show a deep learning program
+
+69
+00:03:27.000 --> 00:03:29.001
+many pictures of bicycles
+
+70
+00:03:29.001 --> 00:03:31.005
+and it will soon predict with good accuracy
+
+71
+00:03:31.005 --> 00:03:35.003
+whether a bicycle is in a picture presented to it.
+
+72
+00:03:35.003 --> 00:03:38.002
+Today, AI research and applications are expanding
+
+73
+00:03:38.002 --> 00:03:41.001
+to include areas such as problem solving,
+
+74
+00:03:41.001 --> 00:03:46.004
+natural language processing and generation, NLP and NLG,
+
+75
+00:03:46.004 --> 00:03:50.002
+perception, planning, and robotics.
+
+76
+00:03:50.002 --> 00:03:53.000
+Despite how remarkable AI appears today,
+
+77
+00:03:53.000 --> 00:03:54.002
+it's important to recognize
+
+78
+00:03:54.002 --> 00:03:58.004
+that we're in the relatively early stages of its potential.
+
+79
+00:03:58.004 --> 00:04:00.004
+In the months and years ahead,
+
+80
+00:04:00.004 --> 00:04:03.009
+and as you'll see, particularly with the emergence of GPT,
+
+81
+00:04:03.009 --> 00:04:08.002
+its real impact is only beginning to be felt at large.
+
+82
+00:04:08.002 --> 00:04:10.007
+The biggest challenges of AI in the future
+
+83
+00:04:10.007 --> 00:04:12.006
+may not be the technology,
+
+84
+00:04:12.006 --> 00:04:14.005
+but questions that evolve areas
+
+85
+00:04:14.005 --> 00:04:18.005
+such as ethics, philosophy, culture,
+
+86
+00:04:18.005 --> 00:04:22.004
+regulation, politics, and economics.
+
+87
+00:04:22.004 --> 00:04:26.007
+We'll touch briefly on some of these areas in later videos.
+
+88
+00:04:26.007 --> 00:04:29.007
+Let's now continue to tell the story of AI
+
+89
+00:04:29.007 --> 00:04:32.009
+as we next visit the origins of OpenAI,
+
+90
+00:04:32.009 --> 00:04:36.007
+the organization that built and launched GPT.
