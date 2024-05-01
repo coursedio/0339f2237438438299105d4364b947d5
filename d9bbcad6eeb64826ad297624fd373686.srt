@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:02.005
+- [Instructor] The central function of GPT
+
+2
+00:00:02.005 --> 00:00:05.007
+is the ability to ingest large amounts of data
+
+3
+00:00:05.007 --> 00:00:08.005
+and use it as a basis to create original output
+
+4
+00:00:08.005 --> 00:00:12.001
+in the form of text, video, and audio.
+
+5
+00:00:12.001 --> 00:00:14.003
+The quality of text output, for example,
+
+6
+00:00:14.003 --> 00:00:17.005
+is so high that it's often difficult to distinguish it
+
+7
+00:00:17.005 --> 00:00:20.000
+from something written by a person.
+
+8
+00:00:20.000 --> 00:00:22.009
+To enable and support this high quality output,
+
+9
+00:00:22.009 --> 00:00:25.000
+a number of AI techniques are employed
+
+10
+00:00:25.000 --> 00:00:27.006
+to make sense of input provided.
+
+11
+00:00:27.006 --> 00:00:29.007
+GPT utilizes an approach
+
+12
+00:00:29.007 --> 00:00:32.009
+that is at the intersection of computer and data science
+
+13
+00:00:32.009 --> 00:00:34.005
+and human language
+
+14
+00:00:34.005 --> 00:00:38.007
+called natural language processing or NLP.
+
+15
+00:00:38.007 --> 00:00:42.007
+Let's begin with an example of NLP in action.
+
+16
+00:00:42.007 --> 00:00:46.000
+Many of us now issue voice commands to digital services
+
+17
+00:00:46.000 --> 00:00:48.005
+such as the popular virtual assistants
+
+18
+00:00:48.005 --> 00:00:51.006
+Amazon Alexa and Google Home.
+
+19
+00:00:51.006 --> 00:00:55.005
+These devices listen to our words, process this input,
+
+20
+00:00:55.005 --> 00:00:57.001
+and then execute some actions
+
+21
+00:00:57.001 --> 00:01:01.004
+such as playing a favorite album or turning on a light.
+
+22
+00:01:01.004 --> 00:01:04.005
+This same technology that makes sense of voice commands
+
+23
+00:01:04.005 --> 00:01:08.000
+can also be applied to text input on a computer.
+
+24
+00:01:08.000 --> 00:01:10.005
+This enables solutions such as chatbots,
+
+25
+00:01:10.005 --> 00:01:14.004
+search engines, language translation, and spell check.
+
+26
+00:01:14.004 --> 00:01:15.009
+In all these instances
+
+27
+00:01:15.009 --> 00:01:21.005
+AI is tasked with processing language, either audio or text.
+
+28
+00:01:21.005 --> 00:01:25.005
+At a high level, NLP generally works like this.
+
+29
+00:01:25.005 --> 00:01:29.001
+The software needs to pre-process the text in sentences
+
+30
+00:01:29.001 --> 00:01:31.007
+in order to provide some form of structure
+
+31
+00:01:31.007 --> 00:01:35.004
+that can be used as the basis for interpretation.
+
+32
+00:01:35.004 --> 00:01:39.001
+First, the sentence is broken into each word.
+
+33
+00:01:39.001 --> 00:01:42.001
+This is called tokenization.
+
+34
+00:01:42.001 --> 00:01:45.000
+The individual words are known as tokens.
+
+35
+00:01:45.000 --> 00:01:48.004
+Unnecessary punctuation is removed.
+
+36
+00:01:48.004 --> 00:01:50.003
+Next words could be identified
+
+37
+00:01:50.003 --> 00:01:56.008
+and tagged as nouns, verbs, adjectives, pronouns, et cetera.
+
+38
+00:01:56.008 --> 00:01:59.006
+This is followed by the process of stemming.
+
+39
+00:01:59.006 --> 00:02:01.007
+This is where words are standardized
+
+40
+00:02:01.007 --> 00:02:05.005
+and put in context by reducing them to their root form.
+
+41
+00:02:05.005 --> 00:02:09.009
+For example, the words banks, banker, and banking
+
+42
+00:02:09.009 --> 00:02:13.000
+are all associated with the root word bank.
+
+43
+00:02:13.000 --> 00:02:14.008
+This is a stem.
+
+44
+00:02:14.008 --> 00:02:17.009
+That root word will be used to assign the context
+
+45
+00:02:17.009 --> 00:02:21.008
+for the input to, for example, a financial institution
+
+46
+00:02:21.008 --> 00:02:24.009
+and not the act of turning an aircraft.
+
+47
+00:02:24.009 --> 00:02:27.006
+Once the text has been pre-processed,
+
+48
+00:02:27.006 --> 00:02:30.002
+a machine learning or ML algorithm
+
+49
+00:02:30.002 --> 00:02:32.009
+is used to interpret the input text.
+
+50
+00:02:32.009 --> 00:02:35.007
+These algorithms use statistical models
+
+51
+00:02:35.007 --> 00:02:38.008
+based on vast volumes of data called training data
+
+52
+00:02:38.008 --> 00:02:42.000
+to suggest what action to perform.
+
+53
+00:02:42.000 --> 00:02:45.003
+These statistical models are also referred to as
+
+54
+00:02:45.003 --> 00:02:49.009
+large language models or LLMs.
+
+55
+00:02:49.009 --> 00:02:54.002
+When the pre-processed text is analyzed by the ML algorithm,
+
+56
+00:02:54.002 --> 00:02:56.008
+it is looking for words, phrases, and patterns
+
+57
+00:02:56.008 --> 00:03:00.005
+of text that are familiar from the training data.
+
+58
+00:03:00.005 --> 00:03:02.001
+If there is a high probability
+
+59
+00:03:02.001 --> 00:03:04.009
+that the words and context are understood,
+
+60
+00:03:04.009 --> 00:03:08.008
+the software now knows what to do next.
+
+61
+00:03:08.008 --> 00:03:12.008
+In my examples, NLP is being used to take an action
+
+62
+00:03:12.008 --> 00:03:14.007
+such as retrieving a search result
+
+63
+00:03:14.007 --> 00:03:18.000
+or changing the temperature on a thermostat.
+
+64
+00:03:18.000 --> 00:03:20.003
+However, input could also be used to generate
+
+65
+00:03:20.003 --> 00:03:24.000
+new media outputs, such as text, audio, and video.
+
+66
+00:03:24.000 --> 00:03:27.006
+This is where we get the term generative AI
+
+67
+00:03:27.006 --> 00:03:30.005
+and it's where we'll go in the next video.
