@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:02.004
+- Artificial intelligence is now creating
+
+2
+00:00:02.004 --> 00:00:06.000
+compelling text and visual content.
+
+3
+00:00:06.000 --> 00:00:08.005
+This content is of such high quality,
+
+4
+00:00:08.005 --> 00:00:12.004
+it's hard to differentiate it from that created by a person.
+
+5
+00:00:12.004 --> 00:00:14.008
+Called generative AI, it's enabling
+
+6
+00:00:14.008 --> 00:00:16.005
+remarkable new capabilities
+
+7
+00:00:16.005 --> 00:00:19.008
+for individuals and organizations.
+
+8
+00:00:19.008 --> 00:00:22.002
+Hi, I'm Dr. Jonathan Reichental,
+
+9
+00:00:22.002 --> 00:00:24.009
+business owner, professor, and author.
+
+10
+00:00:24.009 --> 00:00:26.007
+Let me take you on a brief journey
+
+11
+00:00:26.007 --> 00:00:29.000
+to introduce the basics of AI
+
+12
+00:00:29.000 --> 00:00:32.007
+and a version of generative AI called GPT.
+
+13
+00:00:32.007 --> 00:00:35.004
+Now is the time to understand the opportunities,
+
+14
+00:00:35.004 --> 00:00:39.008
+limitations, and risks presented by this new technology.
+
+15
+00:00:39.008 --> 00:00:43.002
+This course will provide you with a solid foundation
+
+16
+00:00:43.002 --> 00:00:46.008
+and I'm confident it will inspire you to learn more.
+
+17
+00:00:46.008 --> 00:00:48.007
+Okay, let's do this.
