@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:04.002
+- As each day passes, greater numbers of organizations
+
+2
+00:00:04.002 --> 00:00:06.008
+are adopting artificial intelligence.
+
+3
+00:00:06.008 --> 00:00:10.006
+They're incorporating it into their products and services,
+
+4
+00:00:10.006 --> 00:00:14.002
+building new solutions and reinventing existing ones.
+
+5
+00:00:14.002 --> 00:00:17.004
+And they're using it to run better operations.
+
+6
+00:00:17.004 --> 00:00:21.003
+Soon, AI in an enterprise will be as ubiquitous
+
+7
+00:00:21.003 --> 00:00:26.003
+and as important as connectivity and electricity.
+
+8
+00:00:26.003 --> 00:00:29.001
+Being successful with AI, like a lot of major
+
+9
+00:00:29.001 --> 00:00:31.008
+industrial scale innovation over the years
+
+10
+00:00:31.008 --> 00:00:35.004
+will require thoughtful and strategic moves.
+
+11
+00:00:35.004 --> 00:00:39.000
+It will demand some tough decisions, such as dropping
+
+12
+00:00:39.000 --> 00:00:41.009
+or reinventing some products and services,
+
+13
+00:00:41.009 --> 00:00:44.002
+taking on new revenue opportunities
+
+14
+00:00:44.002 --> 00:00:47.001
+and reshaping the workforce.
+
+15
+00:00:47.001 --> 00:00:51.004
+The AI supported enterprise will require retooling employees
+
+16
+00:00:51.004 --> 00:00:54.005
+and perhaps even reducing staff.
+
+17
+00:00:54.005 --> 00:00:57.001
+Let's take a look at a few of the early actions
+
+18
+00:00:57.001 --> 00:00:59.006
+that businesses may want to identify
+
+19
+00:00:59.006 --> 00:01:02.008
+as a plan for an AI future.
+
+20
+00:01:02.008 --> 00:01:05.007
+As a priority at the leadership and management level,
+
+21
+00:01:05.007 --> 00:01:10.005
+it's important to have a vision for AI in the organization.
+
+22
+00:01:10.005 --> 00:01:13.005
+It should be clear on what problems AI will solve
+
+23
+00:01:13.005 --> 00:01:16.005
+or new opportunities that it will present.
+
+24
+00:01:16.005 --> 00:01:19.009
+That vision will be translated to a strategy,
+
+25
+00:01:19.009 --> 00:01:23.001
+a strengths, weaknesses, opportunities and threats
+
+26
+00:01:23.001 --> 00:01:26.008
+or SWOT analysis, will add value here.
+
+27
+00:01:26.008 --> 00:01:30.003
+The risks of doing both, nothing and something
+
+28
+00:01:30.003 --> 00:01:33.005
+must also both be evaluated.
+
+29
+00:01:33.005 --> 00:01:35.005
+Developing a vision and strategy
+
+30
+00:01:35.005 --> 00:01:39.009
+and conducting both a SWOT analysis and risk assessment
+
+31
+00:01:39.009 --> 00:01:41.008
+will require acquiring knowledge
+
+32
+00:01:41.008 --> 00:01:44.007
+on what's currently possible, and even some predictions
+
+33
+00:01:44.007 --> 00:01:47.008
+and bets on where AI is headed.
+
+34
+00:01:47.008 --> 00:01:52.002
+Leaders should attain a good understanding of AI providers,
+
+35
+00:01:52.002 --> 00:01:54.000
+the solutions they are shipping
+
+36
+00:01:54.000 --> 00:01:57.004
+and their future product and service roadmaps.
+
+37
+00:01:57.004 --> 00:02:00.000
+They should also closely monitor their competitors
+
+38
+00:02:00.000 --> 00:02:06.003
+and deeply engage their own customers on expectations.
+
+39
+00:02:06.003 --> 00:02:08.004
+Management must also be prepared
+
+40
+00:02:08.004 --> 00:02:10.007
+to take some additional investment risks
+
+41
+00:02:10.007 --> 00:02:13.005
+and be open to experimenting.
+
+42
+00:02:13.005 --> 00:02:16.007
+Fostering a culture of innovation is essential.
+
+43
+00:02:16.007 --> 00:02:21.000
+Research published in the Harvard Business Review
+
+44
+00:02:21.000 --> 00:02:23.003
+claimed that early adopters of innovation
+
+45
+00:02:23.003 --> 00:02:27.004
+using digital technologies, are growing twice as fast
+
+46
+00:02:27.004 --> 00:02:31.001
+as those who are technologically conservative.
+
+47
+00:02:31.001 --> 00:02:33.008
+For many organizations, short-term plans for AI
+
+48
+00:02:33.008 --> 00:02:35.008
+are going to be primarily focused
+
+49
+00:02:35.008 --> 00:02:40.009
+on acquiring or upgrading existing tools with integrated AI.
+
+50
+00:02:40.009 --> 00:02:44.003
+Applications that are delivered via software as a service
+
+51
+00:02:44.003 --> 00:02:46.009
+or SaaS, will simply see the capability
+
+52
+00:02:46.009 --> 00:02:49.009
+as it's made available.
+
+53
+00:02:49.009 --> 00:02:53.000
+In the medium term, companies will acquire new,
+
+54
+00:02:53.000 --> 00:02:56.007
+AI centric tools for all manner of augmentation
+
+55
+00:02:56.007 --> 00:03:01.006
+and automation capability, including forecasting, design,
+
+56
+00:03:01.006 --> 00:03:05.005
+customer service, content generation, and more.
+
+57
+00:03:05.005 --> 00:03:08.006
+This will be a time for developing an organization's
+
+58
+00:03:08.006 --> 00:03:11.007
+AI standards and principles.
+
+59
+00:03:11.007 --> 00:03:15.009
+In the long term, AI will necessitate many organizations
+
+60
+00:03:15.009 --> 00:03:21.002
+to completely reinvent themselves in order to survive.
+
+61
+00:03:21.002 --> 00:03:23.000
+Leadership and staff training
+
+62
+00:03:23.000 --> 00:03:26.003
+in a rapidly changing world of digital transformation
+
+63
+00:03:26.003 --> 00:03:28.008
+is more important than ever.
+
+64
+00:03:28.008 --> 00:03:32.004
+With AI, a training must be a high priority.
+
+65
+00:03:32.004 --> 00:03:35.002
+Knowing how to tap into these new AI functions
+
+66
+00:03:35.002 --> 00:03:40.002
+and leverage their value will enhance employee performance.
+
+67
+00:03:40.002 --> 00:03:42.000
+For a growing number of businesses,
+
+68
+00:03:42.000 --> 00:03:44.003
+there will be enthusiasm to build their own
+
+69
+00:03:44.003 --> 00:03:46.003
+AI powered solutions.
+
+70
+00:03:46.003 --> 00:03:49.003
+It's a more complex and riskier route,
+
+71
+00:03:49.003 --> 00:03:50.007
+but with plenty of upside,
+
+72
+00:03:50.007 --> 00:03:54.002
+including attaining competitive advantage.
+
+73
+00:03:54.002 --> 00:03:56.009
+Depending on an organization's complexity
+
+74
+00:03:56.009 --> 00:04:00.000
+and degree of engagement with AI systems,
+
+75
+00:04:00.000 --> 00:04:04.006
+it will need to consider retooling and hiring talent.
+
+76
+00:04:04.006 --> 00:04:08.001
+Roles will include those with AI skills and experience
+
+77
+00:04:08.001 --> 00:04:10.007
+such as project managers, analysts,
+
+78
+00:04:10.007 --> 00:04:14.005
+programmers in a variety of languages, architects,
+
+79
+00:04:14.005 --> 00:04:18.007
+data scientists, and perhaps even in prompt engineering.
+
+80
+00:04:18.007 --> 00:04:23.008
+The ability to construct high quality GPT inputs.
+
+81
+00:04:23.008 --> 00:04:26.006
+Preparing your organization for the challenges
+
+82
+00:04:26.006 --> 00:04:29.000
+and opportunities of the 21st century
+
+83
+00:04:29.000 --> 00:04:32.004
+means being in a forward-leaning position.
+
+84
+00:04:32.004 --> 00:04:36.009
+It will require bolder choices, greater risks,
+
+85
+00:04:36.009 --> 00:04:41.004
+in certain investments, and a culture of innovation.
+
+86
+00:04:41.004 --> 00:04:45.000
+And the bottom line, it'll all be for nothing
+
+87
+00:04:45.000 --> 00:04:48.003
+if you don't have the right skills available.
