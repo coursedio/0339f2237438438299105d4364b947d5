@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.000
+- Not withstanding some limitations.
+
+2
+00:00:03.000 --> 00:00:04.008
+If you've used ChatGPT recently,
+
+3
+00:00:04.008 --> 00:00:07.007
+it doesn't fail to impress.
+
+4
+00:00:07.007 --> 00:00:12.000
+Similarly, as more applications integrate GPT capabilities,
+
+5
+00:00:12.000 --> 00:00:14.009
+the results are often remarkable.
+
+6
+00:00:14.009 --> 00:00:18.001
+For example, a solution such as room GPT
+
+7
+00:00:18.001 --> 00:00:21.005
+takes input of a photo of a room and almost instantly
+
+8
+00:00:21.005 --> 00:00:24.003
+produces output of the room redesigned.
+
+9
+00:00:24.003 --> 00:00:26.004
+What used to take interior designers years
+
+10
+00:00:26.004 --> 00:00:27.005
+of training and hours
+
+11
+00:00:27.005 --> 00:00:31.009
+of time to produce is now created in seconds.
+
+12
+00:00:31.009 --> 00:00:33.005
+In just months, thousands
+
+13
+00:00:33.005 --> 00:00:36.009
+of new solutions have emerged that automate
+
+14
+00:00:36.009 --> 00:00:40.002
+and reinvent how we do all matter of things.
+
+15
+00:00:40.002 --> 00:00:43.000
+Every day more emerge, placing a heavy burden
+
+16
+00:00:43.000 --> 00:00:45.005
+on the status quo.
+
+17
+00:00:45.005 --> 00:00:48.004
+If this is the impact and response we're experiencing now,
+
+18
+00:00:48.004 --> 00:00:50.007
+what will the world of AI look like
+
+19
+00:00:50.007 --> 00:00:55.001
+in just 18 or 24 months from now?
+
+20
+00:00:55.001 --> 00:00:58.006
+It's both an exhilarating and daunting thought.
+
+21
+00:00:58.006 --> 00:01:00.009
+While we can expect more groundbreaking innovation
+
+22
+00:01:00.009 --> 00:01:03.001
+that will be useful, embraced by many,
+
+23
+00:01:03.001 --> 00:01:06.002
+we'll also see more tension being paid
+
+24
+00:01:06.002 --> 00:01:07.005
+to areas such as regulation
+
+25
+00:01:07.005 --> 00:01:11.005
+and perhaps some form of global collaboration
+
+26
+00:01:11.005 --> 00:01:17.002
+to manage risks to economies, society, and humanity overall.
+
+27
+00:01:17.002 --> 00:01:20.001
+It's going to be a tumultuous time.
+
+28
+00:01:20.001 --> 00:01:23.006
+There are many aspects to consider on a continuum.
+
+29
+00:01:23.006 --> 00:01:28.000
+On one end, part of society believes AI is fairly benign
+
+30
+00:01:28.000 --> 00:01:31.003
+and will positively support humans much as technology has
+
+31
+00:01:31.003 --> 00:01:32.004
+in the past.
+
+32
+00:01:32.004 --> 00:01:34.008
+While on the other extreme end, people believe
+
+33
+00:01:34.008 --> 00:01:39.001
+AI presents an existential threat to humanity.
+
+34
+00:01:39.001 --> 00:01:41.003
+I think you'll agree there's a big range between
+
+35
+00:01:41.003 --> 00:01:45.005
+these two perspectives and what they mean for the future.
+
+36
+00:01:45.005 --> 00:01:49.000
+It's a safe bet to assume that both the capabilities,
+
+37
+00:01:49.000 --> 00:01:52.001
+challenges, and responses to AI will heat up
+
+38
+00:01:52.001 --> 00:01:55.004
+in the months ahead, each serving up generous amounts
+
+39
+00:01:55.004 --> 00:01:57.004
+of uncertainty.
+
+40
+00:01:57.004 --> 00:02:00.001
+For you and I and the organizations we work with,
+
+41
+00:02:00.001 --> 00:02:05.001
+it's a time for education, experimentation, investment,
+
+42
+00:02:05.001 --> 00:02:07.005
+and risk management.
+
+43
+00:02:07.005 --> 00:02:10.004
+There's an enormous amount of value that AI is bringing
+
+44
+00:02:10.004 --> 00:02:12.009
+to augment all types of work.
+
+45
+00:02:12.009 --> 00:02:16.007
+No matter the industry, AI will have an impact.
+
+46
+00:02:16.007 --> 00:02:18.009
+For example, we should see accelerated progress
+
+47
+00:02:18.009 --> 00:02:23.006
+in areas such as medicine, agriculture, sustainability,
+
+48
+00:02:23.006 --> 00:02:26.004
+and autonomous transportation.
+
+49
+00:02:26.004 --> 00:02:29.003
+Keep closely apprised on such developments relevant
+
+50
+00:02:29.003 --> 00:02:31.007
+to your industry.
+
+51
+00:02:31.007 --> 00:02:34.006
+I created this short video course to introduce the basics
+
+52
+00:02:34.006 --> 00:02:36.006
+of AI and GPT.
+
+53
+00:02:36.006 --> 00:02:38.007
+It's just the start.
+
+54
+00:02:38.007 --> 00:02:40.005
+For next steps, I recommend checking out
+
+55
+00:02:40.005 --> 00:02:42.007
+my highly popular Foundations
+
+56
+00:02:42.007 --> 00:02:45.006
+of the Fourth Industrial Revolution course.
+
+57
+00:02:45.006 --> 00:02:48.002
+This will help to put AI and other trends
+
+58
+00:02:48.002 --> 00:02:51.004
+into a broader perspective for you.
+
+59
+00:02:51.004 --> 00:02:54.008
+Next, you could check out many of the wonderful AI courses
+
+60
+00:02:54.008 --> 00:02:57.008
+on LinkedIn learning by other authors.
+
+61
+00:02:57.008 --> 00:03:00.006
+They cover just about every aspect of the topic
+
+62
+00:03:00.006 --> 00:03:03.007
+from prompt engineering to coding.
+
+63
+00:03:03.007 --> 00:03:07.008
+Now, as we come to the end, let me ask you a question.
+
+64
+00:03:07.008 --> 00:03:09.001
+Is it possible that some part
+
+65
+00:03:09.001 --> 00:03:12.007
+of this video course was written by GPT?
+
+66
+00:03:12.007 --> 00:03:13.009
+And more importantly,
+
+67
+00:03:13.009 --> 00:03:16.009
+would it make a difference if you knew?
+
+68
+00:03:16.009 --> 00:03:21.004
+With that, I wish you continued success with your goals.
+
+69
+00:03:21.004 --> 00:03:24.002
+Thank you for watching and good luck.
