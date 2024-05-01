@@ -1,0 +1,413 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:05.006
+- GPT stands for generative pre-trained transformer.
+
+2
+00:00:05.006 --> 00:00:07.004
+A name like that was obviously created
+
+3
+00:00:07.004 --> 00:00:10.002
+by people that know nothing about marketing.
+
+4
+00:00:10.002 --> 00:00:12.003
+It's certainly a mouthful.
+
+5
+00:00:12.003 --> 00:00:16.004
+The joking aside, GPT uses complex algorithms,
+
+6
+00:00:16.004 --> 00:00:18.007
+a set of rules for problem-solving
+
+7
+00:00:18.007 --> 00:00:20.002
+that computers follow,
+
+8
+00:00:20.002 --> 00:00:22.007
+and lots of data to generate original text
+
+9
+00:00:22.007 --> 00:00:25.006
+and other media types.
+
+10
+00:00:25.006 --> 00:00:29.000
+The quality of text output that Version 4
+
+11
+00:00:29.000 --> 00:00:33.005
+of GPT produces is high quality and hard to discern
+
+12
+00:00:33.005 --> 00:00:36.001
+from human-generated text.
+
+13
+00:00:36.001 --> 00:00:38.002
+With some prompting from a user,
+
+14
+00:00:38.002 --> 00:00:42.003
+GPT can create, for example, meaningful stories,
+
+15
+00:00:42.003 --> 00:00:47.009
+poems, emails, chatbot responses, and software code.
+
+16
+00:00:47.009 --> 00:00:50.001
+In addition, unlike previous versions
+
+17
+00:00:50.001 --> 00:00:53.004
+of GPT, Version 4 is multimodal
+
+18
+00:00:53.004 --> 00:00:58.007
+in that it also supports visual inputs, not just text.
+
+19
+00:00:58.007 --> 00:01:02.008
+GPT is based on a generative model of language.
+
+20
+00:01:02.008 --> 00:01:05.004
+Generative models use existing knowledge
+
+21
+00:01:05.004 --> 00:01:07.002
+of language to make predictions
+
+22
+00:01:07.002 --> 00:01:09.005
+on what words may come next based
+
+23
+00:01:09.005 --> 00:01:13.000
+on a series of previous words and contexts.
+
+24
+00:01:13.000 --> 00:01:15.006
+This is where we get the word generative,
+
+25
+00:01:15.006 --> 00:01:18.000
+the G in GPT.
+
+26
+00:01:18.000 --> 00:01:22.009
+As a simple example, if you type, "Once upon a,"
+
+27
+00:01:22.009 --> 00:01:25.001
+the model will predict the word time
+
+28
+00:01:25.001 --> 00:01:29.006
+as the next word based on its analysis of a large corpus
+
+29
+00:01:29.006 --> 00:01:35.009
+of data that is managed via a large language model, or LLM.
+
+30
+00:01:35.009 --> 00:01:38.007
+The LLM, which is a complex algorithm,
+
+31
+00:01:38.007 --> 00:01:43.009
+not the data itself, but AI relevant parameters, is derived
+
+32
+00:01:43.009 --> 00:01:48.000
+from a massive volume of data that's trained on.
+
+33
+00:01:48.000 --> 00:01:50.004
+This data comes from a variety of public sources
+
+34
+00:01:50.004 --> 00:01:55.001
+including Wikipedia and Common Crawl, a data set of billions
+
+35
+00:01:55.001 --> 00:01:57.006
+of web pages.
+
+36
+00:01:57.006 --> 00:01:59.007
+To help train to make the system smart,
+
+37
+00:01:59.007 --> 00:02:01.003
+so to speak,
+
+38
+00:02:01.003 --> 00:02:04.009
+text is randomly removed from the acquired content
+
+39
+00:02:04.009 --> 00:02:07.000
+and the software is trained to fill it
+
+40
+00:02:07.000 --> 00:02:09.000
+in with the correct missing words.
+
+41
+00:02:09.000 --> 00:02:11.005
+This is where we get the word pre-trained,
+
+42
+00:02:11.005 --> 00:02:14.005
+or P, in GPT.
+
+43
+00:02:14.005 --> 00:02:18.009
+Powering all of this is a type of AI called deep learning,
+
+44
+00:02:18.009 --> 00:02:23.001
+which is based on 70 years of research in neural networks.
+
+45
+00:02:23.001 --> 00:02:26.004
+As an example, for an AI-powered recognition system
+
+46
+00:02:26.004 --> 00:02:30.004
+to learn what a bicycle is and identified in a picture,
+
+47
+00:02:30.004 --> 00:02:36.000
+AI must analyze large volumes of existing bicycle pictures.
+
+48
+00:02:36.000 --> 00:02:38.003
+It's called a neural network because it loosely
+
+49
+00:02:38.003 --> 00:02:41.004
+mimics the function of the brain.
+
+50
+00:02:41.004 --> 00:02:44.002
+The network consists of a web of connected nodes
+
+51
+00:02:44.002 --> 00:02:46.000
+or data points.
+
+52
+00:02:46.000 --> 00:02:48.009
+The type of neural network used in GPT
+
+53
+00:02:48.009 --> 00:02:51.002
+is called a transformer.
+
+54
+00:02:51.002 --> 00:02:54.005
+That's the T in GPT.
+
+55
+00:02:54.005 --> 00:02:55.007
+It's particularly good
+
+56
+00:02:55.007 --> 00:02:59.005
+at taking text and reusing it in another context
+
+57
+00:02:59.005 --> 00:03:01.002
+or word sequence,
+
+58
+00:03:01.002 --> 00:03:03.009
+while maintaining meaning.
+
+59
+00:03:03.009 --> 00:03:05.002
+In a neural network,
+
+60
+00:03:05.002 --> 00:03:08.006
+data moves through nodes, data points,
+
+61
+00:03:08.006 --> 00:03:11.003
+based on certain criteria.
+
+62
+00:03:11.003 --> 00:03:13.005
+One of these criteria is the weight
+
+63
+00:03:13.005 --> 00:03:16.003
+or strength of connections between nodes.
+
+64
+00:03:16.003 --> 00:03:20.005
+If criteria are not met, data does not get processed.
+
+65
+00:03:20.005 --> 00:03:23.007
+If it does, it moves to another node.
+
+66
+00:03:23.007 --> 00:03:27.000
+This repeats until the data arrives transformed
+
+67
+00:03:27.000 --> 00:03:30.007
+at the end of the neural network.
+
+68
+00:03:30.007 --> 00:03:33.006
+Large language models, or LMMs,
+
+69
+00:03:33.006 --> 00:03:34.009
+are at the heart
+
+70
+00:03:34.009 --> 00:03:39.002
+of the artificial intelligence in generative AI.
+
+71
+00:03:39.002 --> 00:03:42.005
+These LLMs contain parameters,
+
+72
+00:03:42.005 --> 00:03:44.001
+which I'll explain in a moment.
+
+73
+00:03:44.001 --> 00:03:49.005
+Basically, more parameters mean higher accuracy output.
+
+74
+00:03:49.005 --> 00:03:51.008
+In each subsequent version of GPT
+
+75
+00:03:51.008 --> 00:03:55.006
+the number of parameters has increased massively.
+
+76
+00:03:55.006 --> 00:04:00.001
+Version 1 had around 117 million.
+
+77
+00:04:00.001 --> 00:04:03.006
+Version 2 had 1.5 billion,
+
+78
+00:04:03.006 --> 00:04:08.001
+and Version 3 had 175 billion.
+
+79
+00:04:08.001 --> 00:04:10.005
+OpenAI has not revealed the exact number
+
+80
+00:04:10.005 --> 00:04:15.001
+of parameters in version four, but some analysts estimate it
+
+81
+00:04:15.001 --> 00:04:17.005
+at over a trillion.
+
+82
+00:04:17.005 --> 00:04:19.002
+Even as an estimate,
+
+83
+00:04:19.002 --> 00:04:22.001
+that may be a few billion off, that's some leap.
+
+84
+00:04:22.001 --> 00:04:27.001
+And you can see now where GPT4 gets its smarts.
+
+85
+00:04:27.001 --> 00:04:31.002
+So what are these parameters in a large language model?
+
+86
+00:04:31.002 --> 00:04:33.002
+There are values that have been derived
+
+87
+00:04:33.002 --> 00:04:35.005
+from analyzing lots of data.
+
+88
+00:04:35.005 --> 00:04:36.004
+Think of a set
+
+89
+00:04:36.004 --> 00:04:39.009
+of parameters like the temperature, direction, and speed
+
+90
+00:04:39.009 --> 00:04:43.003
+of air from vents that you control in your car.
+
+91
+00:04:43.003 --> 00:04:46.003
+You can adjust these until you get just the right mix
+
+92
+00:04:46.003 --> 00:04:49.000
+of air that makes you feel comfortable.
+
+93
+00:04:49.000 --> 00:04:51.009
+In the case of GPT, the response you get
+
+94
+00:04:51.009 --> 00:04:54.006
+to an input prompt will be the result of a series
+
+95
+00:04:54.006 --> 00:04:58.005
+of parameters chosen along a neural network that correspond
+
+96
+00:04:58.005 --> 00:05:01.000
+to text or other output.
+
+97
+00:05:01.000 --> 00:05:03.000
+It is the prediction that the right set
+
+98
+00:05:03.000 --> 00:05:07.005
+of parameters will provide the correct output.
+
+99
+00:05:07.005 --> 00:05:09.002
+Okay, I'll stop there.
+
+100
+00:05:09.002 --> 00:05:12.003
+The concepts described here provide the basic foundation
+
+101
+00:05:12.003 --> 00:05:16.002
+of what GPT is and how it works.
+
+102
+00:05:16.002 --> 00:05:20.002
+It will be enough for most people, but there's a lot more
+
+103
+00:05:20.002 --> 00:05:24.006
+under the hood if you decide you want to go deeper.
