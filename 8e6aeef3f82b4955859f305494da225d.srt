@@ -1,0 +1,377 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:04.002
+- To understand what motivated the formation of OpenAI,
+
+2
+00:00:04.002 --> 00:00:07.003
+the San Francisco based company behind GPT,
+
+3
+00:00:07.003 --> 00:00:11.002
+requires a brief discussion on an ongoing core debate
+
+4
+00:00:11.002 --> 00:00:13.005
+within the AI community.
+
+5
+00:00:13.005 --> 00:00:16.008
+This debate asks whether advances in AI present,
+
+6
+00:00:16.008 --> 00:00:18.004
+on one side of the argument,
+
+7
+00:00:18.004 --> 00:00:20.007
+a better, more prosperous future,
+
+8
+00:00:20.007 --> 00:00:25.001
+or on the other side, a future where AI is to be feared.
+
+9
+00:00:25.001 --> 00:00:27.009
+Those who say AI is a positive force,
+
+10
+00:00:27.009 --> 00:00:31.006
+such as Ray Kurzweil, the American inventor and futurist,
+
+11
+00:00:31.006 --> 00:00:35.002
+argues that it will free up humans for more leisure time
+
+12
+00:00:35.002 --> 00:00:39.005
+and enable more of us to focus on creative pursuits.
+
+13
+00:00:39.005 --> 00:00:42.007
+Those on the other concerned side of the argument,
+
+14
+00:00:42.007 --> 00:00:45.009
+such as Bill Gates, the former CEO of Microsoft,
+
+15
+00:00:45.009 --> 00:00:50.003
+worry that AI, while remarkable, may be dangerous.
+
+16
+00:00:50.003 --> 00:00:53.007
+He fears, for example, AI being applied in warfare
+
+17
+00:00:53.007 --> 00:00:57.002
+to manage autonomous weapons, those that search for
+
+18
+00:00:57.002 --> 00:01:01.007
+and destroy targets without human intervention.
+
+19
+00:01:01.007 --> 00:01:05.006
+Elon Musk, the CEO of Tesla, SpaceX, and Twitter,
+
+20
+00:01:05.006 --> 00:01:08.006
+has been outspoken about his concerns.
+
+21
+00:01:08.006 --> 00:01:11.008
+He shares views similar to the late Stephen Hawking,
+
+22
+00:01:11.008 --> 00:01:16.000
+the notable theoretical physicist and cosmologist.
+
+23
+00:01:16.000 --> 00:01:18.008
+They have characterized some form of future AI
+
+24
+00:01:18.008 --> 00:01:23.004
+as potentially humanity's "greatest existential threat,"
+
+25
+00:01:23.004 --> 00:01:26.007
+a concerning view indeed.
+
+26
+00:01:26.007 --> 00:01:30.006
+Responding to this concern, in October, 2015,
+
+27
+00:01:30.006 --> 00:01:33.005
+Elon Musk along with Sam Altman,
+
+28
+00:01:33.005 --> 00:01:37.000
+former president of startup accelerator Y Combinator,
+
+29
+00:01:37.000 --> 00:01:38.001
+and other investors
+
+30
+00:01:38.001 --> 00:01:40.009
+such as co-founder of LinkedIn Reid Hoffman
+
+31
+00:01:40.009 --> 00:01:46.003
+and Peter Thiel, co-founder of PayPal, created OpenAI.
+
+32
+00:01:46.003 --> 00:01:49.003
+Corporations such as Microsoft, who recently,
+
+33
+00:01:49.003 --> 00:01:52.006
+significantly increased its investment in OpenAI,
+
+34
+00:01:52.006 --> 00:01:57.003
+and Infosys were also founding members.
+
+35
+00:01:57.003 --> 00:02:01.002
+Acknowledging their concerns about the risks of future AI,
+
+36
+00:02:01.002 --> 00:02:05.003
+they committed to actions that could prevent major risks.
+
+37
+00:02:05.003 --> 00:02:09.005
+These partners formed OpenAI in the spirit of promoting
+
+38
+00:02:09.005 --> 00:02:14.001
+and developing AI in a manner that would benefit humanity.
+
+39
+00:02:14.001 --> 00:02:15.009
+To demonstrate their commitment,
+
+40
+00:02:15.009 --> 00:02:19.001
+together they pledged over $1 billion
+
+41
+00:02:19.001 --> 00:02:21.004
+to create the organization.
+
+42
+00:02:21.004 --> 00:02:23.003
+Their mission was clear.
+
+43
+00:02:23.003 --> 00:02:26.006
+OpenAI would be focused on ensuring that the development
+
+44
+00:02:26.006 --> 00:02:29.007
+and usage of Artficial General Intelligence,
+
+45
+00:02:29.007 --> 00:02:33.001
+or AGI, would benefit the world.
+
+46
+00:02:33.001 --> 00:02:35.002
+They would build safe AGI
+
+47
+00:02:35.002 --> 00:02:37.003
+and consider their mission successful
+
+48
+00:02:37.003 --> 00:02:41.001
+if it helped others achieve the same outcome.
+
+49
+00:02:41.001 --> 00:02:43.005
+The organization began as a nonprofit
+
+50
+00:02:43.005 --> 00:02:47.003
+in early 2016 with nine researchers.
+
+51
+00:02:47.003 --> 00:02:48.007
+By April of that year,
+
+52
+00:02:48.007 --> 00:02:52.008
+they released their first product called OpenAI Gym.
+
+53
+00:02:52.008 --> 00:02:54.005
+This was a toolkit for developing
+
+54
+00:02:54.005 --> 00:02:58.004
+and comparing reinforcement learning algorithms.
+
+55
+00:02:58.004 --> 00:03:01.007
+Reinforcement learning is when a computer employs trial
+
+56
+00:03:01.007 --> 00:03:06.000
+and error to come up with a solution to a problem.
+
+57
+00:03:06.000 --> 00:03:10.008
+In December, 2016, OpenAI released Universe.
+
+58
+00:03:10.008 --> 00:03:13.006
+This was a platform for enabling AI software
+
+59
+00:03:13.006 --> 00:03:15.005
+to interact with a computer,
+
+60
+00:03:15.005 --> 00:03:17.003
+such as viewing what's on the screen
+
+61
+00:03:17.003 --> 00:03:20.001
+and using a virtual keyboard and mouse.
+
+62
+00:03:20.001 --> 00:03:22.006
+These solutions were followed by several more
+
+63
+00:03:22.006 --> 00:03:25.006
+in the machine learning space.
+
+64
+00:03:25.006 --> 00:03:31.003
+In 2018, OpenAI published a paper on Generative Pre-Training
+
+65
+00:03:31.003 --> 00:03:33.007
+and what would soon become the first version
+
+66
+00:03:33.007 --> 00:03:36.004
+of GPT software.
+
+67
+00:03:36.004 --> 00:03:40.008
+At first, much of the code behind OpenAI was open source,
+
+68
+00:03:40.008 --> 00:03:44.000
+thus the use of the term "Open" in its name,
+
+69
+00:03:44.000 --> 00:03:46.009
+enabling others to inspect, modify,
+
+70
+00:03:46.009 --> 00:03:49.006
+and distribute the code for their purposes.
+
+71
+00:03:49.006 --> 00:03:51.009
+Transparency and sharing were consistent
+
+72
+00:03:51.009 --> 00:03:54.007
+with the organization's founding mission.
+
+73
+00:03:54.007 --> 00:03:57.009
+However, as with so many initial intentions,
+
+74
+00:03:57.009 --> 00:04:02.000
+strategy can often change in response to market conditions,
+
+75
+00:04:02.000 --> 00:04:06.005
+leadership, philosophy, and opportunity.
+
+76
+00:04:06.005 --> 00:04:12.003
+In 2019, OpenAI dropped its designation as a pure nonprofit
+
+77
+00:04:12.003 --> 00:04:15.001
+and became a for-profit enterprise.
+
+78
+00:04:15.001 --> 00:04:17.001
+This was done for a variety of reasons
+
+79
+00:04:17.001 --> 00:04:20.007
+that included the ability to attract further investment
+
+80
+00:04:20.007 --> 00:04:23.009
+through monetization opportunities.
+
+81
+00:04:23.009 --> 00:04:28.002
+Microsoft stepped forward and became a significant investor.
+
+82
+00:04:28.002 --> 00:04:32.001
+Further, Microsoft became OpenAI's preferred partner
+
+83
+00:04:32.001 --> 00:04:34.008
+to license its technology and integrate it
+
+84
+00:04:34.008 --> 00:04:39.000
+into their existing and future products and services.
+
+85
+00:04:39.000 --> 00:04:42.001
+In addition, Elon Musk resigned from his board seat.
+
+86
+00:04:42.001 --> 00:04:44.006
+He cited a potential conflict of interest
+
+87
+00:04:44.006 --> 00:04:46.009
+with the work at Tesla in developing AI
+
+88
+00:04:46.009 --> 00:04:50.001
+for self-driving cars, as well as his concerns
+
+89
+00:04:50.001 --> 00:04:53.005
+about the new for-profit direction.
+
+90
+00:04:53.005 --> 00:04:58.007
+With the massive success of ChatGPT and GPT-4,
+
+91
+00:04:58.007 --> 00:05:02.008
+OpenAI is pushing the boundaries of what is possible.
+
+92
+00:05:02.008 --> 00:05:04.006
+It's becoming clear already
+
+93
+00:05:04.006 --> 00:05:08.006
+that OpenAI's competition will be rigorous
+
+94
+00:05:08.006 --> 00:05:13.003
+and the future incredibly unpredictable for all of us.
