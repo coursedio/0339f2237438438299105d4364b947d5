@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:01.007
+- While the important debate
+
+2
+00:00:01.007 --> 00:00:03.006
+over the potential negative impacts
+
+3
+00:00:03.006 --> 00:00:06.005
+of AI on existing jobs continues,
+
+4
+00:00:06.005 --> 00:00:07.004
+let's also recognize
+
+5
+00:00:07.004 --> 00:00:10.006
+that in every technological and societal shift,
+
+6
+00:00:10.006 --> 00:00:13.000
+there are also plenty of winners.
+
+7
+00:00:13.000 --> 00:00:15.007
+Each of the previous industrial revolutions
+
+8
+00:00:15.007 --> 00:00:18.008
+made many jobs and businesses obsolete,
+
+9
+00:00:18.008 --> 00:00:22.005
+but they also generated completely new work and industries
+
+10
+00:00:22.005 --> 00:00:24.009
+that more often generated better economics
+
+11
+00:00:24.009 --> 00:00:27.000
+than those they replaced.
+
+12
+00:00:27.000 --> 00:00:30.005
+Sure, AI is anticipated to eliminate a lot of work,
+
+13
+00:00:30.005 --> 00:00:32.009
+but it's important that we don't lose sight of the fact
+
+14
+00:00:32.009 --> 00:00:36.009
+that new lucrative AI careers and business opportunities
+
+15
+00:00:36.009 --> 00:00:39.009
+will also emerge in the years ahead.
+
+16
+00:00:39.009 --> 00:00:42.000
+Any discussion on the future of AI
+
+17
+00:00:42.000 --> 00:00:44.006
+must include the jobs and careers it will create
+
+18
+00:00:44.006 --> 00:00:49.001
+and the ways it will augment the way many work.
+
+19
+00:00:49.001 --> 00:00:52.004
+By transforming what and how work is delivered,
+
+20
+00:00:52.004 --> 00:00:55.004
+according to the consulting firm, McKinsey,
+
+21
+00:00:55.004 --> 00:00:58.004
+AI is projected to contribute $13 trillion
+
+22
+00:00:58.004 --> 00:01:01.003
+to the global economy by 2030.
+
+23
+00:01:01.003 --> 00:01:03.005
+The World Economic Forum is on record
+
+24
+00:01:03.005 --> 00:01:09.009
+predicting that AI will create 97 million new jobs by 2025.
+
+25
+00:01:09.009 --> 00:01:13.008
+Looking just at generative AI, the realm of GPT,
+
+26
+00:01:13.008 --> 00:01:16.007
+a Goldman Sachs study suggests it could produce
+
+27
+00:01:16.007 --> 00:01:22.009
+a $7 trillion increase in global GDP by the early 2030s.
+
+28
+00:01:22.009 --> 00:01:24.007
+These numbers, of course, can vary
+
+29
+00:01:24.007 --> 00:01:28.002
+depending on how we define the scope of AI.
+
+30
+00:01:28.002 --> 00:01:32.001
+Should we include robots in our definition, for example?
+
+31
+00:01:32.001 --> 00:01:33.007
+Broadly though, much of the value
+
+32
+00:01:33.007 --> 00:01:36.001
+that AI will bring over the next few years
+
+33
+00:01:36.001 --> 00:01:39.003
+can be distilled into three major buckets:
+
+34
+00:01:39.003 --> 00:01:41.007
+improved customer experiences,
+
+35
+00:01:41.007 --> 00:01:45.009
+new revenue opportunities, and cost reductions.
+
+36
+00:01:45.009 --> 00:01:46.009
+Consider for a moment
+
+37
+00:01:46.009 --> 00:01:50.001
+a few of the different types of new AI-centric businesses
+
+38
+00:01:50.001 --> 00:01:54.003
+and jobs that may be created to support these areas.
+
+39
+00:01:54.003 --> 00:01:56.004
+Equally important too is to evaluate
+
+40
+00:01:56.004 --> 00:02:00.006
+what roles these efforts might displace.
+
+41
+00:02:00.006 --> 00:02:04.000
+Today, most organizations recognize the role of technology,
+
+42
+00:02:04.000 --> 00:02:07.006
+and particularly digitalization as a core mechanism
+
+43
+00:02:07.006 --> 00:02:10.004
+for achieving these strategic objectives.
+
+44
+00:02:10.004 --> 00:02:13.006
+The ongoing digital transformation of the global economy
+
+45
+00:02:13.006 --> 00:02:17.009
+will continue to drive demand in technology-related jobs.
+
+46
+00:02:17.009 --> 00:02:21.008
+AI-specific work may require more technical education
+
+47
+00:02:21.008 --> 00:02:24.001
+and specialization.
+
+48
+00:02:24.001 --> 00:02:26.001
+The need for data-focused jobs,
+
+49
+00:02:26.001 --> 00:02:30.002
+given the intersection between AI and digitalization,
+
+50
+00:02:30.002 --> 00:02:32.007
+will also continue to increase.
+
+51
+00:02:32.007 --> 00:02:36.008
+According to CompTIA, a leading technology association,
+
+52
+00:02:36.008 --> 00:02:40.006
+the top five AI skills for IT professionals
+
+53
+00:02:40.006 --> 00:02:43.009
+include support and troubleshooting of AI issues,
+
+54
+00:02:43.009 --> 00:02:46.005
+AI algorithm development,
+
+55
+00:02:46.005 --> 00:02:48.007
+software development in general,
+
+56
+00:02:48.007 --> 00:02:52.007
+cybersecurity, and data analysis.
+
+57
+00:02:52.007 --> 00:02:54.008
+And what about generative AI?
+
+58
+00:02:54.008 --> 00:02:57.006
+This area is creating a demand for roles
+
+59
+00:02:57.006 --> 00:02:59.004
+that include prompt engineers,
+
+60
+00:02:59.004 --> 00:03:02.004
+the role that specializes in creating the best input
+
+61
+00:03:02.004 --> 00:03:04.004
+for a GPT.
+
+62
+00:03:04.004 --> 00:03:06.009
+All types of data-related roles,
+
+63
+00:03:06.009 --> 00:03:10.008
+AI product owners, AI trainers.
+
+64
+00:03:10.008 --> 00:03:13.005
+These are for training AI, not people.
+
+65
+00:03:13.005 --> 00:03:16.005
+Lots of backend technical engineering roles,
+
+66
+00:03:16.005 --> 00:03:20.004
+science and research work, and analysts.
+
+67
+00:03:20.004 --> 00:03:22.008
+What will surprise us all in the future
+
+68
+00:03:22.008 --> 00:03:24.007
+will be the essential roles
+
+69
+00:03:24.007 --> 00:03:27.006
+that we can't even imagine right now.
+
+70
+00:03:27.006 --> 00:03:29.006
+In an environment of work disruption
+
+71
+00:03:29.006 --> 00:03:32.001
+and future career uncertainty,
+
+72
+00:03:32.001 --> 00:03:34.003
+at least in the short to medium term,
+
+73
+00:03:34.003 --> 00:03:35.009
+if you're thoughtful and strategic
+
+74
+00:03:35.009 --> 00:03:37.007
+about your skills development,
+
+75
+00:03:37.007 --> 00:03:39.009
+there will be opportunities.
+
+76
+00:03:39.009 --> 00:03:43.002
+If you're inclined towards a role in the world of AI,
+
+77
+00:03:43.002 --> 00:03:46.002
+demand will be high for some time to come,
+
+78
+00:03:46.002 --> 00:03:49.009
+and completely new work will emerge.
+
+79
+00:03:49.009 --> 00:03:54.007
+Stay informed, be proactive, and remain optimistic.
