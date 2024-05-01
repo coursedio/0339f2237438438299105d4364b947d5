@@ -1,0 +1,485 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:01.004
+- [Instructor] I've been involved
+
+2
+00:00:01.004 --> 00:00:04.005
+in technology innovation for over 30 years.
+
+3
+00:00:04.005 --> 00:00:07.006
+During this time, I've noticed that what may be a challenge
+
+4
+00:00:07.006 --> 00:00:11.005
+or risk one day may not be the next.
+
+5
+00:00:11.005 --> 00:00:12.004
+At the same time,
+
+6
+00:00:12.004 --> 00:00:17.001
+new unanticipated issues often arise that nobody saw coming.
+
+7
+00:00:17.001 --> 00:00:20.007
+The status quo can evolve rapidly.
+
+8
+00:00:20.007 --> 00:00:23.000
+I guess this is characteristic of all progress
+
+9
+00:00:23.000 --> 00:00:24.002
+but it's particularly notable
+
+10
+00:00:24.002 --> 00:00:27.007
+when it comes to matters related to technology.
+
+11
+00:00:27.007 --> 00:00:31.003
+AI has these qualities to a significant degree.
+
+12
+00:00:31.003 --> 00:00:33.006
+The playing field is changing quickly
+
+13
+00:00:33.006 --> 00:00:35.008
+and that's why following advancements closely
+
+14
+00:00:35.008 --> 00:00:38.002
+is so important for you in your organization.
+
+15
+00:00:38.002 --> 00:00:43.000
+In areas such as strategy creation, policy development,
+
+16
+00:00:43.000 --> 00:00:46.005
+investment decisions, and risk management.
+
+17
+00:00:46.005 --> 00:00:48.002
+The range of challenges and risks
+
+18
+00:00:48.002 --> 00:00:51.002
+posed by AI right now are varied.
+
+19
+00:00:51.002 --> 00:00:55.005
+They span across economics, to ethics, and beyond.
+
+20
+00:00:55.005 --> 00:00:57.007
+While an organization must be focused
+
+21
+00:00:57.007 --> 00:00:59.004
+on the technical aspects of AI,
+
+22
+00:00:59.004 --> 00:01:01.002
+such as incorporating it appropriately
+
+23
+00:01:01.002 --> 00:01:03.009
+into their existing processes and products,
+
+24
+00:01:03.009 --> 00:01:07.005
+they must also be aware of the non-technical issues.
+
+25
+00:01:07.005 --> 00:01:09.000
+Frankly, I'm of the opinion
+
+26
+00:01:09.000 --> 00:01:12.008
+that the latter will be harder than the former.
+
+27
+00:01:12.008 --> 00:01:14.007
+Of particular concern to companies
+
+28
+00:01:14.007 --> 00:01:17.005
+is the impact of AI on their relevance.
+
+29
+00:01:17.005 --> 00:01:20.008
+If AI can deliver a solution in an automated way that is,
+
+30
+00:01:20.008 --> 00:01:24.008
+for example, cheaper, faster, and a better experience,
+
+31
+00:01:24.008 --> 00:01:26.007
+it will displace existing providers
+
+32
+00:01:26.007 --> 00:01:28.009
+who don't pivot quickly enough.
+
+33
+00:01:28.009 --> 00:01:32.002
+Automation has always presented this risk
+
+34
+00:01:32.002 --> 00:01:34.004
+but AI-powered automation,
+
+35
+00:01:34.004 --> 00:01:36.005
+which can have greater generalization,
+
+36
+00:01:36.005 --> 00:01:39.000
+will often happen and be far reaching
+
+37
+00:01:39.000 --> 00:01:42.009
+much faster than in the past.
+
+38
+00:01:42.009 --> 00:01:45.004
+This issue applies to skills to.
+
+39
+00:01:45.004 --> 00:01:48.006
+A once important skill now, done better with AI,
+
+40
+00:01:48.006 --> 00:01:51.006
+means employees need to retool quickly.
+
+41
+00:01:51.006 --> 00:01:55.002
+OpenAI's research indicates that GPT, for instance,
+
+42
+00:01:55.002 --> 00:01:57.007
+may impact 10% of the work tasks
+
+43
+00:01:57.007 --> 00:02:00.009
+of 80% of the U.S. workforce.
+
+44
+00:02:00.009 --> 00:02:03.000
+For sure, there's also an upside
+
+45
+00:02:03.000 --> 00:02:05.003
+to the opportunities for work that AI presents,
+
+46
+00:02:05.003 --> 00:02:08.001
+and I discuss those in a later video.
+
+47
+00:02:08.001 --> 00:02:11.000
+Even as companies recognize the need to change,
+
+48
+00:02:11.000 --> 00:02:13.008
+they may also be limited by technical know-how,
+
+49
+00:02:13.008 --> 00:02:16.009
+innovation capabilities, and insufficient urgency
+
+50
+00:02:16.009 --> 00:02:18.008
+from all decision makers.
+
+51
+00:02:18.008 --> 00:02:20.003
+Necessary change won't happen
+
+52
+00:02:20.003 --> 00:02:23.002
+if leaders and staff don't understand AI,
+
+53
+00:02:23.002 --> 00:02:26.000
+fail to embrace it, and even reject it.
+
+54
+00:02:26.000 --> 00:02:28.000
+A poorly executed AI strategy
+
+55
+00:02:28.000 --> 00:02:31.000
+could result in a business making bad decisions.
+
+56
+00:02:31.000 --> 00:02:34.004
+Those informed by ChatGPT, for example,
+
+57
+00:02:34.004 --> 00:02:37.007
+or using poor data to train its language models,
+
+58
+00:02:37.007 --> 00:02:40.002
+running a foul of regulations and laws,
+
+59
+00:02:40.002 --> 00:02:44.007
+and damaging its brands through unethical AI behaviors.
+
+60
+00:02:44.007 --> 00:02:48.006
+After all, AI continues to reflect human biases
+
+61
+00:02:48.006 --> 00:02:51.007
+and it produces AI hallucinations.
+
+62
+00:02:51.007 --> 00:02:54.000
+AI now has the ability to create outputs,
+
+63
+00:02:54.000 --> 00:02:56.003
+such as fake images, video,
+
+64
+00:02:56.003 --> 00:03:00.006
+and audio that is difficult to distinguish from reality.
+
+65
+00:03:00.006 --> 00:03:02.009
+Deep fakes, for example, are videos that show
+
+66
+00:03:02.009 --> 00:03:06.001
+what appears to be a real person discussing a subject
+
+67
+00:03:06.001 --> 00:03:09.005
+but that has been entirely generated by a computer.
+
+68
+00:03:09.005 --> 00:03:11.008
+On one level, this can be entertaining
+
+69
+00:03:11.008 --> 00:03:14.007
+but it does raise the question of how we will distinguish
+
+70
+00:03:14.007 --> 00:03:19.005
+between what is real and what is fake in the near future.
+
+71
+00:03:19.005 --> 00:03:23.000
+What happens, for example, if a supposed video of your CEO
+
+72
+00:03:23.000 --> 00:03:25.008
+appears on YouTube appearing drunk, cursing,
+
+73
+00:03:25.008 --> 00:03:27.008
+and being inappropriate?
+
+74
+00:03:27.008 --> 00:03:30.005
+Sure, eventually the truth will likely emerge,
+
+75
+00:03:30.005 --> 00:03:32.006
+but until then, the stock could tank
+
+76
+00:03:32.006 --> 00:03:36.007
+and the reputation of the business may never fully recover.
+
+77
+00:03:36.007 --> 00:03:39.006
+Using fake content, AI will enable all types
+
+78
+00:03:39.006 --> 00:03:41.006
+of nefarious schemes to take place,
+
+79
+00:03:41.006 --> 00:03:44.006
+including those impacting our political systems
+
+80
+00:03:44.006 --> 00:03:46.004
+elaborate cyber crimes
+
+81
+00:03:46.004 --> 00:03:49.001
+and ultimately creating significant issues of trust
+
+82
+00:03:49.001 --> 00:03:50.009
+in all aspects of life.
+
+83
+00:03:50.009 --> 00:03:53.000
+Can you imagine getting a call from someone
+
+84
+00:03:53.000 --> 00:03:56.005
+and not being sure if the person on the other end is real?
+
+85
+00:03:56.005 --> 00:03:59.001
+We can anticipate an entirely new industry emerging
+
+86
+00:03:59.001 --> 00:04:01.005
+to combat these challenges.
+
+87
+00:04:01.005 --> 00:04:04.008
+The ethics of AI, a topic beyond the scope of this course,
+
+88
+00:04:04.008 --> 00:04:06.008
+yet relevant to challenges and risks
+
+89
+00:04:06.008 --> 00:04:09.004
+are still not well understood or implemented.
+
+90
+00:04:09.004 --> 00:04:11.008
+Here we're talking about people, organizations,
+
+91
+00:04:11.008 --> 00:04:14.009
+and systems and how their use of AI, for example,
+
+92
+00:04:14.009 --> 00:04:16.007
+demonstrates transparency,
+
+93
+00:04:16.007 --> 00:04:19.000
+such as whether content is copyrighted,
+
+94
+00:04:19.000 --> 00:04:23.000
+shows fairness in its interactions, respects privacy,
+
+95
+00:04:23.000 --> 00:04:24.008
+and provides an explanation
+
+96
+00:04:24.008 --> 00:04:28.002
+of how decisions and actions are being processed.
+
+97
+00:04:28.002 --> 00:04:31.007
+In the absence of a formal approach to ethical AI use,
+
+98
+00:04:31.007 --> 00:04:33.001
+people and organizations
+
+99
+00:04:33.001 --> 00:04:36.006
+will certainly raise their risk quotient.
+
+100
+00:04:36.006 --> 00:04:38.007
+Finally, significant work is required
+
+101
+00:04:38.007 --> 00:04:42.008
+to reduce the challenges of the AI alignment problem.
+
+102
+00:04:42.008 --> 00:04:44.007
+Simply defined, this is the issue
+
+103
+00:04:44.007 --> 00:04:47.005
+of ensuring AI response to human requests,
+
+104
+00:04:47.005 --> 00:04:49.004
+such that they remain within moral,
+
+105
+00:04:49.004 --> 00:04:51.009
+ethical, and legal standards.
+
+106
+00:04:51.009 --> 00:04:54.007
+For example, if we asked a self-driving car
+
+107
+00:04:54.007 --> 00:04:57.000
+to pick up and deliver medicine from a drugstore
+
+108
+00:04:57.000 --> 00:04:58.008
+as quickly as possible,
+
+109
+00:04:58.008 --> 00:05:01.005
+would it knock over people and crash into objects
+
+110
+00:05:01.005 --> 00:05:05.000
+all in an effort to optimize for speed?
+
+111
+00:05:05.000 --> 00:05:06.005
+We want AI to augment
+
+112
+00:05:06.005 --> 00:05:08.004
+and improve our lives and organizations,
+
+113
+00:05:08.004 --> 00:05:11.005
+but we don't want it to create chaos we can't control.
+
+114
+00:05:11.005 --> 00:05:12.009
+You can probably get the sense
+
+115
+00:05:12.009 --> 00:05:15.003
+that I'm only scratching the surface here.
+
+116
+00:05:15.003 --> 00:05:16.005
+There's much more to learn
+
+117
+00:05:16.005 --> 00:05:18.000
+and I strongly encourage you
+
+118
+00:05:18.000 --> 00:05:20.008
+to dive deeper into these topics.
+
+119
+00:05:20.008 --> 00:05:23.005
+Before continuing to the next video,
+
+120
+00:05:23.005 --> 00:05:27.005
+consider what you believe to be the greatest limitations,
+
+121
+00:05:27.005 --> 00:05:30.009
+challenges, and risks of GPT.
